@@ -231,6 +231,8 @@ http://192.168.1.36:8086/live/866.m3u8
 http://192.168.1.36:8086/live/951.m3u8
 #EXTINF:-1 tvg-name="JUSPunjabi"tvg-id="(no tvg-id)"tvg-logo="http://192.168.1.36:8086/jtvimage/JUSPunjabi.png"group-title="Entertainment",JUSPunjabi
 http://192.168.1.36:8086/live/959.m3u8
+#EXTINF:-1 tvg-id=177 tvg-name="ABP News India" tvg-logo="http://192.168.1.36:8086/jtvimage/ABP_News_India.png" tvg-language="Hindi" tvg-type="News" group-title="News", ABP News India
+http://192.168.1.36:8086/live/177.m3u8
 #EXTINF:-1 tvg-name="Aaj Tak"tvg-id="(no tvg-id)"tvg-logo="http://192.168.1.36:8086/jtvimage/Aaj_Tak.png"group-title="News",Aaj Tak
 http://192.168.1.36:8086/live/173.m3u8
 #EXTINF:-1 tvg-name="Zee News"tvg-id="(no tvg-id)"tvg-logo="http://192.168.1.36:8086/jtvimage/Zee_News.png"group-title="News",Zee News
