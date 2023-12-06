@@ -69,6 +69,10 @@ http://192.168.1.36:8086/live/1184.m3u8
 http://192.168.1.36:8086/live/1145.m3u8
 #EXTINF:-1 tvg-name="Balle Balle TV"tvg-id="(no tvg-id)"tvg-logo="http://192.168.1.36:8086/jtvimage/Balle_Balle_TV.png"group-title="Music",Balle Balle TV
 http://192.168.1.36:8086/live/1453.m3u8
+#EXTINF:-1 tvg-name="Dil Se"tvg-id="(no tvg-id)"tvg-logo="http://192.168.1.36:8086/jtvimage/Dil_Se.png"group-title="Music",Dil Se
+http://192.168.1.36:8086/live/2036.m3u8
+#EXTINF:-1 tvg-name="Saregama Music"tvg-id="(no tvg-id)"tvg-logo="http://192.168.1.36:8086/jtvimage/Saregama_Music.png"group-title="Music",Saregama Music
+http://192.168.1.36:8086/live/2065.m3u8
 #EXTINF:-1 tvg-name="VH1 HD"tvg-id="(no tvg-id)"tvg-logo="http://192.168.1.36:8086/jtvimage/VH1_HD.png"group-title="Music",VH1 HD
 http://192.168.1.36:8086/live/1320.m3u8
 #EXTINF:-1 tvg-name="9XM"tvg-id="(no tvg-id)"tvg-logo="http://192.168.1.36:8086/jtvimage/9XM.png"group-title="Music",9XM
@@ -99,12 +103,8 @@ http://192.168.1.36:8086/live/1411.m3u8
 http://192.168.1.36:8086/live/1527.m3u8
 #EXTINF:-1 tvg-name="Haryana Beats"tvg-id="(no tvg-id)"tvg-logo="http://192.168.1.36:8086/jtvimage/Haryana_Beats.png"group-title="Music",Haryana Beats
 http://192.168.1.36:8086/live/1694.m3u8
-#EXTINF:-1 tvg-name="Dil Se"tvg-id="(no tvg-id)"tvg-logo="http://192.168.1.36:8086/jtvimage/Dil_Se.png"group-title="Music",Dil Se
-http://192.168.1.36:8086/live/2036.m3u8
 #EXTINF:-1 tvg-name="Pop Pataka"tvg-id="(no tvg-id)"tvg-logo="http://192.168.1.36:8086/jtvimage/Pop_Pataka.png"group-title="Music",Pop Pataka
 http://192.168.1.36:8086/live/2037.m3u8
-#EXTINF:-1 tvg-name="Saregama Music"tvg-id="(no tvg-id)"tvg-logo="http://192.168.1.36:8086/jtvimage/Saregama_Music.png"group-title="Music",Saregama Music
-http://192.168.1.36:8086/live/2065.m3u8
 #EXTINF:-1 tvg-name="Dhamaal"tvg-id="(no tvg-id)"tvg-logo="http://192.168.1.36:8086/jtvimage/Dhamaal.png"group-title="Music",Dhamaal
 http://192.168.1.36:8086/live/2038.m3u8
 #EXTINF:-1 tvg-name="Jio Specials HD"tvg-id="(no tvg-id)"tvg-logo="http://192.168.1.36:8086/jtvimage/Jio_Specials_HD.png"group-title="Music",Jio Specials HD
