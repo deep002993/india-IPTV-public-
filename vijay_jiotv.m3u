@@ -36,19 +36,19 @@ http://192.168.0.108:8086/live/2776.m3u8
 #EXTINF:-1 tvg-name="Sony Max SD"tvg-id="(no tvg-id)"tvg-logo="http://192.168.0.108:8086/jtvimage/Sony_Max_SD.png"group-title="Movies",Sony Max SD
 http://192.168.0.108:8086/live/289.m3u8
 #EXTINF:-1 tvg-id=sl852 tvg-name="SL Sony BBC Earth HD" tvg-logo="http://192.168.1.36:8086/jtvimage/Sony_BBC_Earth_HD_English.png" tvg-language="English" tvg-type="Infotainment" group-title="Infotainment", SL Sony BBC Earth HD
-http://192.168.1.36:8086/live/sl852.m3u8
+http://192.168.0.108:8086/live/sl852.m3u8
 #EXTINF:-1 tvg-id=sl762 tvg-name="SL Sony PIX HD" tvg-logo="http://192.168.1.36:8086/jtvimage/Sony_Pix_HD.png" tvg-language="English" tvg-type="Movies" group-title="Movies", SL Sony PIX HD
-http://192.168.1.36:8086/live/sl762.m3u8
+http://192.168.0.108:8086/live/sl762.m3u8
 #EXTINF:-1 tvg-id=sl291 tvg-name="SL Sony HD" tvg-logo="http://192.168.1.36:8086/jtvimage/Sony_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", SL Sony HD
-http://192.168.1.36:8086/live/sl291.m3u8
+http://192.168.0.108:8086/live/sl291.m3u8
 #EXTINF:-1 tvg-id=sl154 tvg-name="SL Sony SAB HD" tvg-logo="http://192.168.1.36:8086/jtvimage/Sony_SAB_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", SL Sony SAB HD
-http://192.168.1.36:8086/live/sl154.m3u8
+http://192.168.0.108:8086/live/sl154.m3u8
 #EXTINF:-1 tvg-id=sl474 tvg-name="SL Sony PAL" tvg-logo="http://192.168.1.36:8086/jtvimage/Sony_Pal.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", SL Sony PAL
-http://192.168.1.36:8086/live/sl474.m3u8
+http://192.168.0.108:8086/live/sl474.m3u8
 #EXTINF:-1 tvg-id=sl476 tvg-name="SL Sony MAX HD" tvg-logo="http://192.168.1.36:8086/jtvimage/Sony_Max_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", SL Sony MAX HD
-http://192.168.1.36:8086/live/sl476.m3u8
+http://192.168.0.108:8086/live/sl476.m3u8
 #EXTINF:-1 tvg-id=sl483 tvg-name="SL Sony MAX 2" tvg-logo="http://192.168.1.36:8086/jtvimage/Sony_MAX2.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", SL Sony MAX 2
-http://192.168.1.36:8086/live/sl483.m3u8
+http://192.168.0.108:8086/live/sl483.m3u8
 #EXTINF:-1 tvg-name="&Flix HD"tvg-id="(no tvg-id)"tvg-logo="http://192.168.0.108:8086/jtvimage/And_Flix_HD.png"group-title="Movies",&Flix HD
 http://192.168.0.108:8086/live/1322.m3u8
 #EXTINF:-1 tvg-name="And Prive HD"tvg-id="(no tvg-id)"tvg-logo="http://192.168.0.108:8086/jtvimage/And_Prive_HD.png"group-title="Movies",And Prive HD
