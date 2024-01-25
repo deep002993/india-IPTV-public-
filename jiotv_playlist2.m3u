@@ -1,4 +1,4 @@
-﻿#EXTM3U url-tvg=""
+#EXTM3U x-tvg-url="http://192.168.1.36:8086/epg.xml.gz"
 #EXTINF:-1 tvg-name="Colors Cineplex Bollywood (1080p)"tvg-id="ColorsCineplexBollywood.in"tvg-logo="https://i.imgur.com/EbHSQAJ.png"group-title="deep",Colors Cineplex Bollywood (1080p)
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-name="Colors Cineplex Superhits (1080p)"tvg-id="ColorsCineplexSuperhits.in"tvg-logo="https://i.ibb.co/KbXhstz/Screenshot-20230610-130415.jpg"group-title="deep",Colors Cineplex Superhits (1080p)
