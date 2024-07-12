@@ -43,8 +43,6 @@ http://192.168.1.36:8086/live/high/1322.m3u8
 http://192.168.1.36:8086/live/high/3046.m3u8
 #EXTINF:-1 tvg-name="And Prive HD"tvg-logo="http://192.168.1.36:8086/jtvimage/And_Prive_HD.png"group-title="Movies",And Prive HD
 http://192.168.1.36:8086/live/high/1349.m3u8
-#EXTINF:-1 tvg-name="Zee Picchar SD"tvg-logo="http://192.168.1.36:8086/jtvimage/Zee_Picchar_SD.png"group-title="Movies",Zee Picchar SD
-http://192.168.1.36:8086/live/high/3047.m3u8
 #EXTINF:-1 tvg-name="SL Sony PIX HD"tvg-logo="http://192.168.1.36:8086/jtvimage/Sony_Pix_HD.png"group-title="Movies",SL Sony PIX HD
 http://192.168.1.36:8086/live/high/sl762.m3u8
 #EXTINF:-1 tvg-name="SL Sony MAX 2"tvg-logo="http://192.168.1.36:8086/jtvimage/Sony_MAX2.png"group-title="Movies",SL Sony MAX 2
@@ -57,14 +55,8 @@ http://192.168.1.36:8086/live/high/946.m3u8
 http://192.168.1.36:8086/live/high/1190.m3u8
 #EXTINF:-1 tvg-name="Tabbar Hits"tvg-logo="http://192.168.1.36:8086/jtvimage/Tabbar_Hits.png"group-title="Movies",Tabbar Hits
 http://192.168.1.36:8086/live/high/2778.m3u8
-#EXTINF:-1 tvg-name="Aaryaa Cinema"tvg-logo="http://192.168.1.36:8086/jtvimage/Aaryaa_Cinema.png"group-title="Movies",Aaryaa Cinema
-http://192.168.1.36:8086/live/high/2189.m3u8
 #EXTINF:-1 tvg-name="NH Studioz"tvg-logo="http://192.168.1.36:8086/jtvimage/NH_Studioz.png"group-title="Movies",NH Studioz
 http://192.168.1.36:8086/live/high/2762.m3u8
-#EXTINF:-1 tvg-name="RDC Movies"tvg-logo="http://192.168.1.36:8086/jtvimage/rdcmovies.png"group-title="Movies",RDC Movies
-http://192.168.1.36:8086/live/high/3054.m3u8
-#EXTINF:-1 tvg-name="Hiff Movies"tvg-logo="http://192.168.1.36:8086/jtvimage/Hiff_Movies.png"group-title="Movies",Hiff Movies
-http://192.168.1.36:8086/live/high/3060.m3u8
 #EXTINF:-1 tvg-name="And TV HD"tvg-logo="http://192.168.1.36:8086/jtvimage/And_TV_HD.png"group-title="Entertainment",And TV HD
 http://192.168.1.36:8086/live/high/472.m3u8
 #EXTINF:-1 tvg-name="And TV"tvg-logo="http://192.168.1.36:8086/jtvimage/And_TV.png"group-title="Entertainment",And TV
