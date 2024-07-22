@@ -1,4 +1,4 @@
-﻿#EXTM3U x-tvg-url="http://192.168.1.36:8086/epg.xml.gz"
+#EXTM3U x-tvg-url="http://192.168.1.36:8086/epg.xml.gz"
 #EXTINF:-1 tvg-name="Colors Cineplex Bollywood"tvg-logo="http://192.168.1.36:8086/jtvimage/Colors_Cineplex_Bollywood.png"group-title="Movies",Colors Cineplex Bollywood
 http://192.168.1.36:8086/live/high/1763.m3u8
 #EXTINF:-1 tvg-name="Colors Cineplex Superhit"tvg-logo="http://192.168.1.36:8086/jtvimage/Rishtey_Cineplex.png"group-title="Movies",Colors Cineplex Superhit
@@ -43,6 +43,8 @@ http://192.168.1.36:8086/live/high/1322.m3u8
 http://192.168.1.36:8086/live/high/3046.m3u8
 #EXTINF:-1 tvg-name="And Prive HD"tvg-logo="http://192.168.1.36:8086/jtvimage/And_Prive_HD.png"group-title="Movies",And Prive HD
 http://192.168.1.36:8086/live/high/1349.m3u8
+#EXTINF:-1 tvg-name="Zee Picchar SD"tvg-logo="http://192.168.1.36:8086/jtvimage/Zee_Picchar_SD.png"group-title="Movies",Zee Picchar SD
+http://192.168.1.36:8086/live/high/3047.m3u8
 #EXTINF:-1 tvg-name="SL Sony PIX HD"tvg-logo="http://192.168.1.36:8086/jtvimage/Sony_Pix_HD.png"group-title="Movies",SL Sony PIX HD
 http://192.168.1.36:8086/live/high/sl762.m3u8
 #EXTINF:-1 tvg-name="SL Sony MAX 2"tvg-logo="http://192.168.1.36:8086/jtvimage/Sony_MAX2.png"group-title="Movies",SL Sony MAX 2
@@ -55,8 +57,14 @@ http://192.168.1.36:8086/live/high/946.m3u8
 http://192.168.1.36:8086/live/high/1190.m3u8
 #EXTINF:-1 tvg-name="Tabbar Hits"tvg-logo="http://192.168.1.36:8086/jtvimage/Tabbar_Hits.png"group-title="Movies",Tabbar Hits
 http://192.168.1.36:8086/live/high/2778.m3u8
+#EXTINF:-1 tvg-name="Aaryaa Cinema"tvg-logo="http://192.168.1.36:8086/jtvimage/Aaryaa_Cinema.png"group-title="Movies",Aaryaa Cinema
+http://192.168.1.36:8086/live/high/2189.m3u8
 #EXTINF:-1 tvg-name="NH Studioz"tvg-logo="http://192.168.1.36:8086/jtvimage/NH_Studioz.png"group-title="Movies",NH Studioz
 http://192.168.1.36:8086/live/high/2762.m3u8
+#EXTINF:-1 tvg-name="RDC Movies"tvg-logo="http://192.168.1.36:8086/jtvimage/rdcmovies.png"group-title="Movies",RDC Movies
+http://192.168.1.36:8086/live/high/3054.m3u8
+#EXTINF:-1 tvg-name="Hiff Movies"tvg-logo="http://192.168.1.36:8086/jtvimage/Hiff_Movies.png"group-title="Movies",Hiff Movies
+http://192.168.1.36:8086/live/high/3060.m3u8
 #EXTINF:-1 tvg-name="And TV HD"tvg-logo="http://192.168.1.36:8086/jtvimage/And_TV_HD.png"group-title="Entertainment",And TV HD
 http://192.168.1.36:8086/live/high/472.m3u8
 #EXTINF:-1 tvg-name="And TV"tvg-logo="http://192.168.1.36:8086/jtvimage/And_TV.png"group-title="Entertainment",And TV
@@ -549,6 +557,9 @@ http://192.168.1.36:8086/live/high/1868.m3u8
 http://192.168.1.36:8086/live/high/906.m3u8
 #EXTINF:-1 tvg-name="World  Punjabi"tvg-logo="http://192.168.1.36:8086/jtvimage/World_Punjab.png"group-title="Infotainment",World  Punjabi
 http://192.168.1.36:8086/live/high/1534.m3u8
+
+
+
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title="deep":http-referrer="":http-user-agent="",Rakuten Top Free UK (720p)
 https://rakuten-topfree-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RakutenTVComedyMoviesUK.uk"tvg-logo=""group-title="deep":http-referrer="":http-user-agent="",Rakuten Comedy Movies UK (720p)
@@ -613,3 +624,75 @@ https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-topfree-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Wonder.uk"tvg-logo="https://i.imgur.com/LquGNbh.png"group-title="deep":http-user-agent="",Wonder
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wondernz-samsungnz/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-513-j5jzouqw-v5/imageContent-513-j5jzouqw-m7.png"tvg-chno=""group-title="Sports":http-user-agent="",SONY SPORTS TEN 1
+https://sliv.kratosgod.io/api/sonyten1.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-742-j5l50le0-v5/imageContent-742-j5l50le0-m7.png"tvg-chno=""group-title="Sports":http-user-agent="",SONY SPORTS TEN 2
+https://sliv.kratosgod.io/api/sonyten2.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-739-j5l4y6yw-v5/imageContent-739-j5l4y6yw-m5.png"tvg-chno=""group-title="Sports":http-user-agent="",SONY SPORTS TEN 3
+https://sliv.kratosgod.io/api/sonyten3.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_SD_Logo_CLR.png"tvg-chno=""group-title="Sports":http-user-agent="",SONY SPORTS TEN 4
+https://sliv.kratosgod.io/api/sonyten4.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png"tvg-chno=""group-title="Sports":http-user-agent="",SONY SPORTS TEN 5
+https://sliv.kratosgod.io/api/sonyten5.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-261-j5fz9bvk-v4/imageContent-261-j5fz9bvk-m4.png"tvg-chno=""group-title="Sports":http-user-agent="",SONY SPORTS TEN 1 HD
+https://sliv.kratosgod.io/api/sonyten1hd.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11784-j9kylfd4-v2/imageContent-11784-j9kylfd4-m3.png"tvg-chno=""group-title="Sports":http-user-agent="",SONY SPORTS TEN 2 HD
+https://sliv.kratosgod.io/api/sonyten2hd.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-739-j5l4y6yw-v5/imageContent-739-j5l4y6yw-m5.png"tvg-chno=""group-title="Sports":http-user-agent="",SONY SPORTS TEN 3 HD
+https://sliv.kratosgod.io/api/sonyten3hd.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png"tvg-chno=""group-title="Sports":http-user-agent="",SONY SPORTS TEN 4 HD
+https://sliv.kratosgod.io/api/sonyten4hd.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-108-j5fl5wwg-v3/imageContent-108-j5fl5wwg-m3.png"tvg-chno=""group-title="Sports":http-user-agent="",SONY SPORTS TEN 5 HD
+https://sliv.kratosgod.io/api/sonyten5hd.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/8DqZtPr/Picsart-24-06-12-14-26-56-576.png"tvg-chno=""group-title="Movies":http-user-agent="",Star Gold 2 HD
+http://sansat.net:25461/02028857936892/0751169096/96343
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/cQ7Tx24/Picsart-24-06-12-15-22-33-860.png"tvg-chno=""group-title="Movies":http-user-agent="",Star Utsav Movies
+http://sansat.net:25461/02028857936892/0751169096/96178
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://bigcchubchat.pages.dev/80.png"tvg-chno=""group-title="Movies":http-user-agent="",SONY MAX HD
+https://sliv.kratosgod.io/api/sonymaxhd.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-441-j5jt3mmg-v3/imageContent-441-j5jt3mmg-m3.png"tvg-chno=""group-title="Movies":http-user-agent="",SONY MAX
+https://sliv.kratosgod.io/api/sonymax.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://bigcchubchat.pages.dev/56.png"tvg-chno=""group-title="Movies":http-user-agent="",Sony Wah
+https://sliv.kratosgod.io/api/sonywah.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://bigcchubchat.pages.dev/120.png"tvg-chno=""group-title="Movies":http-user-agent="",SONY MAX 2
+https://sliv.kratosgod.io/api/sonymax2.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://bigcchubchat.pages.dev/48.png"tvg-chno=""group-title="Entertainment":http-user-agent="",SONY SAB HD
+https://sliv.kratosgod.io/api/sabhd.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://bigcchubchat.pages.dev/554.png"tvg-chno=""group-title="Entertainment":http-user-agent="",Sony Pal
+https://sliv.kratosgod.io/api/sonypal.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m3u-editor.com/storage/channel-logos/a9655440-2fd6-11ef-9eb1-617925ce2957/6907970/1190192257.png"tvg-chno=""group-title="Entertainment":http-user-agent="",Sony Kal
+https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m3u-editor.com/storage/channel-logos/a9655440-2fd6-11ef-9eb1-617925ce2957/6900506/1190810095.png"tvg-chno=""group-title="Movies":http-user-agent="",AXN
+http://starshare.live:8080/live/7884362065/8020257649/143058.ts
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/YNRhYwy/Picsart-24-02-24-08-03-20-802.png"tvg-chno=""group-title="Movies":http-user-agent="",Star Movies HD
+http://sansat.net:25461/02028857936892/0751169096/93668
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/fqH6cm0/Picsart-24-02-24-08-09-40-552.png"tvg-chno=""group-title="Movies":http-user-agent="",Star Movies Select HD
+http://sansat.net:25461/02028857936892/0751169096/93669
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://bigcchubchat.pages.dev/32.png"tvg-chno=""group-title="Movies":http-user-agent="",SONY PIX HD
+http://starshare.live:8080/live/7884362065/8020257649/9381.ts
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://bigcchubchat.pages.dev/460.png"tvg-chno=""group-title="infotainment":http-user-agent="",SONY BBC Earth HD
+http://starshare.live:8080/live/7884362065/8020257649/98871.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4jOSoK1R70fLjm2L3SiQFvsIk9gFt33EiQcE1Vze_iXA-NMzwSBE21AI&s=10"group-title="Movies",Star Gold HD
+http://xtv.ooo:8080/live/574453/774499/66178.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gctfzMTn/73770383-cms.png"group-title="Movies",Star Gold 2
+http://xtv.ooo:8080/live/574453/774499/106133.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiFrgItzysUrYMdT6RqRHIrfl48ocKNwYKuJWgTTlLEA&s"group-title="Movies",Star Gold THRILLS
+http://filex.tv:8080/Restreaming@Filex@MalikBilal007@854369/HelloSky@MalikBilal@LiveTv@7544898/189473
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ktgkqwj.png"group-title="Movies",Star Gold Select HD
+http://xtv.ooo:8080/live/574453/774499/66176.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqG3yBIlXqLMpw8rgS_AynI4fGWfll0bHVGIoO2e3TVUC9nTiwo5bLiyQ&s=10"group-title="Movies",Star Gold Romance
+http://xtv.ooo:8080/live/574453/774499/66186.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXv4xURd0N6Rfwu0GGcXn6DPoVDOnxR-I2jiyiyEIejAItC4F5Uj3mAT9p&s=10"group-title="Movies",Goldmines Bollywood
+https://evbr.short.gy/BDStreamHub/Goldmines_Bollywood.ts
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/142/505/png-transparent-hbo-home-box-officce-television-brands-and-logos-icon.png"group-title="Movies",HBO
+http://tv.cloudcdn.me:80/live.ts?channelId=49858&uid=13556&deviceMac=00:1A:79:AB:DF:A6
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png"group-title="Movies",Star Movies HD
+http://xtv.ooo:8080/live/574453/774499/66213.ts
+#EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1640857479-98084000.png?v=8.2.3"group-title="Movies",Star Movies Select HD
+http://opplex.tv:8080/live/umera1234/2345678/66315.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png"group-title="Kids",Disney HD
+http://xtv.ooo:8080/live/Behraam223/8237588/167551.ts
+
