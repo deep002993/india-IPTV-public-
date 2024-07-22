@@ -25,32 +25,78 @@ http://192.168.1.36:8086/live/high/488.m3u8
 http://192.168.1.36:8086/live/high/484.m3u8
 #EXTINF:-1 tvg-name="Zee Bollywood"tvg-logo="http://192.168.1.36:8086/jtvimage/Zee_Classic.png"group-title="Movies",Zee Bollywood
 http://192.168.1.36:8086/live/high/487.m3u8
-#EXTINF:-1 tvg-name="B4U Movies"tvg-logo="http://192.168.1.36:8086/jtvimage/B4U_Movies.png"group-title="Movies",B4U Movies
-http://192.168.1.36:8086/live/high/182.m3u8
-#EXTINF:-1 tvg-name="B4U Kadak"tvg-logo="http://192.168.1.36:8086/jtvimage/B4U_Kadak.png"group-title="Movies",B4U Kadak
-http://192.168.1.36:8086/live/high/1295.m3u8
-#EXTINF:-1 tvg-name="Maha Movies"tvg-logo="http://192.168.1.36:8086/jtvimage/Maha_Movies.png"group-title="Movies",Maha Movies
-http://192.168.1.36:8086/live/high/809.m3u8
-#EXTINF:-1 tvg-name="Sony Max SD"tvg-logo="http://192.168.1.36:8086/jtvimage/Sony_Max_SD.png"group-title="Movies",Sony Max SD
-http://192.168.1.36:8086/live/high/289.m3u8
-#EXTINF:-1 tvg-name="Sony Max HD"tvg-logo="http://192.168.1.36:8086/jtvimage/Sony_Max_HD.png"group-title="Movies",Sony Max HD
-http://192.168.1.36:8086/live/high/476.m3u8
-#EXTINF:-1 tvg-name="Sony MAX2"tvg-logo="http://192.168.1.36:8086/jtvimage/Sony_MAX2.png"group-title="Movies",Sony MAX2
-http://192.168.1.36:8086/live/high/483.m3u8
+
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/8DqZtPr/Picsart-24-06-12-14-26-56-576.png"tvg-chno=""group-title="Movies":http-user-agent="",Star Gold 2 HD
+http://sansat.net:25461/02028857936892/0751169096/96343
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://bigcchubchat.pages.dev/80.png"tvg-chno=""group-title="Movies":http-user-agent="",SONY MAX HD
+https://sliv.kratosgod.io/api/sonymaxhd.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-441-j5jt3mmg-v3/imageContent-441-j5jt3mmg-m3.png"tvg-chno=""group-title="Movies":http-user-agent="",SONY MAX
+https://sliv.kratosgod.io/api/sonymax.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://bigcchubchat.pages.dev/120.png"tvg-chno=""group-title="Movies":http-user-agent="",SONY MAX 2
+https://sliv.kratosgod.io/api/sonymax2.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4jOSoK1R70fLjm2L3SiQFvsIk9gFt33EiQcE1Vze_iXA-NMzwSBE21AI&s=10"group-title="Movies",Star Gold HD
+http://xtv.ooo:8080/live/574453/774499/66178.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gctfzMTn/73770383-cms.png"group-title="Movies",Star Gold 2
+http://xtv.ooo:8080/live/574453/774499/106133.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ktgkqwj.png"group-title="Movies",Star Gold Select HD
+http://xtv.ooo:8080/live/574453/774499/66176.ts
+
+
 #EXTINF:-1 tvg-name="&Flix HD"tvg-logo="http://192.168.1.36:8086/jtvimage/And_Flix_HD.png"group-title="Movies",&Flix HD
 http://192.168.1.36:8086/live/high/1322.m3u8
 #EXTINF:-1 tvg-name="& flix SD"tvg-logo="http://192.168.1.36:8086/jtvimage/And_flix_SD.png"group-title="Movies",& flix SD
 http://192.168.1.36:8086/live/high/3046.m3u8
 #EXTINF:-1 tvg-name="And Prive HD"tvg-logo="http://192.168.1.36:8086/jtvimage/And_Prive_HD.png"group-title="Movies",And Prive HD
 http://192.168.1.36:8086/live/high/1349.m3u8
-#EXTINF:-1 tvg-name="Zee Picchar SD"tvg-logo="http://192.168.1.36:8086/jtvimage/Zee_Picchar_SD.png"group-title="Movies",Zee Picchar SD
-http://192.168.1.36:8086/live/high/3047.m3u8
+
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/YNRhYwy/Picsart-24-02-24-08-03-20-802.png"tvg-chno=""group-title="Movies":http-user-agent="",Star Movies HD
+http://sansat.net:25461/02028857936892/0751169096/93668
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/fqH6cm0/Picsart-24-02-24-08-09-40-552.png"tvg-chno=""group-title="Movies":http-user-agent="",Star Movies Select HD
+http://sansat.net:25461/02028857936892/0751169096/93669
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://bigcchubchat.pages.dev/32.png"tvg-chno=""group-title="Movies":http-user-agent="",SONY PIX HD
+http://starshare.live:8080/live/7884362065/8020257649/9381.ts
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m3u-editor.com/storage/channel-logos/a9655440-2fd6-11ef-9eb1-617925ce2957/6900506/1190810095.png"tvg-chno=""group-title="Movies":http-user-agent="",AXN
+http://starshare.live:8080/live/7884362065/8020257649/143058.ts
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/142/505/png-transparent-hbo-home-box-officce-television-brands-and-logos-icon.png"group-title="Movies",HBO
+http://tv.cloudcdn.me:80/live.ts?channelId=49858&uid=13556&deviceMac=00:1A:79:AB:DF:A6
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png"group-title="Movies",Star Movies HD
+http://xtv.ooo:8080/live/574453/774499/66213.ts
+#EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1640857479-98084000.png?v=8.2.3"group-title="Movies",Star Movies Select HD
+http://opplex.tv:8080/live/umera1234/2345678/66315.ts
+
+
+
+#EXTINF:-1 tvg-name="B4U Movies"tvg-logo="http://192.168.1.36:8086/jtvimage/B4U_Movies.png"group-title="Movies",B4U Movies
+http://192.168.1.36:8086/live/high/182.m3u8
+#EXTINF:-1 tvg-name="B4U Kadak"tvg-logo="http://192.168.1.36:8086/jtvimage/B4U_Kadak.png"group-title="Movies",B4U Kadak
+http://192.168.1.36:8086/live/high/1295.m3u8
+
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/cQ7Tx24/Picsart-24-06-12-15-22-33-860.png"tvg-chno=""group-title="Movies":http-user-agent="",Star Utsav Movies
+http://sansat.net:25461/02028857936892/0751169096/96178
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://bigcchubchat.pages.dev/56.png"tvg-chno=""group-title="Movies":http-user-agent="",Sony Wah
+https://sliv.kratosgod.io/api/sonywah.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiFrgItzysUrYMdT6RqRHIrfl48ocKNwYKuJWgTTlLEA&s"group-title="Movies",Star Gold THRILLS
+http://filex.tv:8080/Restreaming@Filex@MalikBilal007@854369/HelloSky@MalikBilal@LiveTv@7544898/189473
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqG3yBIlXqLMpw8rgS_AynI4fGWfll0bHVGIoO2e3TVUC9nTiwo5bLiyQ&s=10"group-title="Movies",Star Gold Romance
+http://xtv.ooo:8080/live/574453/774499/66186.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXv4xURd0N6Rfwu0GGcXn6DPoVDOnxR-I2jiyiyEIejAItC4F5Uj3mAT9p&s=10"group-title="Movies",Goldmines Bollywood
+https://evbr.short.gy/BDStreamHub/Goldmines_Bollywood.ts
+
+
+#EXTINF:-1 tvg-name="Maha Movies"tvg-logo="http://192.168.1.36:8086/jtvimage/Maha_Movies.png"group-title="Movies",Maha Movies
+http://192.168.1.36:8086/live/high/809.m3u8
 #EXTINF:-1 tvg-name="SL Sony PIX HD"tvg-logo="http://192.168.1.36:8086/jtvimage/Sony_Pix_HD.png"group-title="Movies",SL Sony PIX HD
 http://192.168.1.36:8086/live/high/sl762.m3u8
 #EXTINF:-1 tvg-name="SL Sony MAX 2"tvg-logo="http://192.168.1.36:8086/jtvimage/Sony_MAX2.png"group-title="Movies",SL Sony MAX 2
 http://192.168.1.36:8086/live/high/sl483.m3u8
 #EXTINF:-1 tvg-name="SL Sony MAX HD"tvg-logo="http://192.168.1.36:8086/jtvimage/Sony_Max_HD.png"group-title="Movies",SL Sony MAX HD
 http://192.168.1.36:8086/live/high/sl476.m3u8
+#EXTINF:-1 tvg-name="Sony Max SD"tvg-logo="http://192.168.1.36:8086/jtvimage/Sony_Max_SD.png"group-title="Movies",Sony Max SD
+http://192.168.1.36:8086/live/high/289.m3u8
+#EXTINF:-1 tvg-name="Sony Max HD"tvg-logo="http://192.168.1.36:8086/jtvimage/Sony_Max_HD.png"group-title="Movies",Sony Max HD
+http://192.168.1.36:8086/live/high/476.m3u8
+#EXTINF:-1 tvg-name="Sony MAX2"tvg-logo="http://192.168.1.36:8086/jtvimage/Sony_MAX2.png"group-title="Movies",Sony MAX2
+http://192.168.1.36:8086/live/high/483.m3u8
 #EXTINF:-1 tvg-name="Pitaara"tvg-logo="http://192.168.1.36:8086/jtvimage/Pitaara.png"group-title="Movies",Pitaara
 http://192.168.1.36:8086/live/high/946.m3u8
 #EXTINF:-1 tvg-name="PTC Punjabi Gold "tvg-logo="http://192.168.1.36:8086/jtvimage/PTC_Punjabi_Gold.png"group-title="Movies",PTC Punjabi Gold
@@ -89,6 +135,16 @@ http://192.168.1.36:8086/live/high/1157.m3u8
 http://192.168.1.36:8086/live/high/1158.m3u8
 #EXTINF:-1 tvg-name="Zee Cafe HD"tvg-logo="http://192.168.1.36:8086/jtvimage/Zee_Cafe_HD.png"group-title="Entertainment",Zee Cafe HD
 http://192.168.1.36:8086/live/high/1319.m3u8
+
+
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://bigcchubchat.pages.dev/48.png"tvg-chno=""group-title="Entertainment":http-user-agent="",SONY SAB HD
+https://sliv.kratosgod.io/api/sabhd.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://bigcchubchat.pages.dev/554.png"tvg-chno=""group-title="Entertainment":http-user-agent="",Sony Pal
+https://sliv.kratosgod.io/api/sonypal.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m3u-editor.com/storage/channel-logos/a9655440-2fd6-11ef-9eb1-617925ce2957/6907970/1190192257.png"tvg-chno=""group-title="Entertainment":http-user-agent="",Sony Kal
+https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+
+
 #EXTINF:-1 tvg-name="Colors Infinity SD"tvg-logo="http://192.168.1.36:8086/jtvimage/Colors_Infinity_SD.png"group-title="Entertainment",Colors Infinity SD
 http://192.168.1.36:8086/live/high/1325.m3u8
 #EXTINF:-1 tvg-name="Comedy Central SD"tvg-logo="http://192.168.1.36:8086/jtvimage/Comedy_Central_SD.png"group-title="Entertainment",Comedy Central SD
@@ -385,6 +441,12 @@ http://192.168.1.36:8086/live/high/566.m3u8
 http://192.168.1.36:8086/live/high/575.m3u8
 #EXTINF:-1 tvg-name="History TV18 HD Hindi"tvg-logo="http://192.168.1.36:8086/jtvimage/History_18_Hindi.png"group-title="Infotainment",History TV18 HD Hindi
 http://192.168.1.36:8086/live/high/578.m3u8
+
+
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://bigcchubchat.pages.dev/460.png"tvg-chno=""group-title="infotainment":http-user-agent="",SONY BBC Earth HD
+http://starshare.live:8080/live/7884362065/8020257649/98871.ts
+
+
 #EXTINF:-1 tvg-name="History TV18 HD"tvg-logo="http://192.168.1.36:8086/jtvimage/History_HD.png"group-title="Infotainment",History TV18 HD
 http://192.168.1.36:8086/live/high/146.m3u8
 #EXTINF:-1 tvg-name="Discovery"tvg-logo="http://192.168.1.36:8086/jtvimage/Discovery_Channel_English.png"group-title="Infotainment",Discovery
@@ -413,8 +475,14 @@ http://192.168.1.36:8086/live/high/583.m3u8
 http://192.168.1.36:8086/live/high/2938.m3u8
 #EXTINF:-1 tvg-name="Haryana Tashan Music"tvg-logo="http://192.168.1.36:8086/jtvimage/HR_Tashan_Music.png"group-title="Infotainment",Haryana Tashan Music
 http://192.168.1.36:8086/live/high/3062.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png"group-title="Kids",Disney HD
+http://xtv.ooo:8080/live/Behraam223/8237588/167551.ts
 #EXTINF:-1 tvg-name="Nick Hindi"tvg-logo="http://192.168.1.36:8086/jtvimage/Nick_Hindi.png"group-title="Kids",Nick Hindi
 http://192.168.1.36:8086/live/high/545.m3u8
+#EXTINF:-1 tvg-name="Cartoon Network Hindi"tvg-logo="http://192.168.1.36:8086/jtvimage/Cartoon_Network_Hindi.png"group-title="Kids",Cartoon Network Hindi
+http://192.168.1.36:8086/live/high/816.m3u8
 #EXTINF:-1 tvg-name="Nickelodeon Jr."tvg-logo="http://192.168.1.36:8086/jtvimage/Nickelodeon_Jr.png"group-title="Kids",Nickelodeon Jr.
 http://192.168.1.36:8086/live/high/548.m3u8
 #EXTINF:-1 tvg-name="Discovery Kids 2"tvg-logo="http://192.168.1.36:8086/jtvimage/Discovery_Kids_2.png"group-title="Kids",Discovery Kids 2
@@ -423,8 +491,6 @@ http://192.168.1.36:8086/live/high/554.m3u8
 http://192.168.1.36:8086/live/high/559.m3u8
 #EXTINF:-1 tvg-name="Sonic Hindi"tvg-logo="http://192.168.1.36:8086/jtvimage/sonic_Hindi.png"group-title="Kids",Sonic Hindi
 http://192.168.1.36:8086/live/high/815.m3u8
-#EXTINF:-1 tvg-name="Cartoon Network Hindi"tvg-logo="http://192.168.1.36:8086/jtvimage/Cartoon_Network_Hindi.png"group-title="Kids",Cartoon Network Hindi
-http://192.168.1.36:8086/live/high/816.m3u8
 #EXTINF:-1 tvg-name="Sony Yay Hindi"tvg-logo="http://192.168.1.36:8086/jtvimage/Sony_Yay_Hindi.png"group-title="Kids",Sony Yay Hindi
 http://192.168.1.36:8086/live/high/872.m3u8
 #EXTINF:-1 tvg-name="Nick Junior"tvg-logo="http://192.168.1.36:8086/jtvimage/Nick_Junior.png"group-title="Kids",Nick Junior
@@ -441,6 +507,29 @@ http://192.168.1.36:8086/live/high/1780.m3u8
 http://192.168.1.36:8086/live/high/3055.m3u8
 #EXTINF:-1 tvg-name="The Q Kahaniyan"tvg-logo="http://192.168.1.36:8086/jtvimage/The_Q_Kahaniyan.png"group-title="Kids",The Q Kahaniyan
 http://192.168.1.36:8086/live/high/1920.m3u8
+
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-513-j5jzouqw-v5/imageContent-513-j5jzouqw-m7.png"tvg-chno=""group-title="Sports":http-user-agent="",SONY SPORTS TEN 1
+https://sliv.kratosgod.io/api/sonyten1.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-742-j5l50le0-v5/imageContent-742-j5l50le0-m7.png"tvg-chno=""group-title="Sports":http-user-agent="",SONY SPORTS TEN 2
+https://sliv.kratosgod.io/api/sonyten2.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-739-j5l4y6yw-v5/imageContent-739-j5l4y6yw-m5.png"tvg-chno=""group-title="Sports":http-user-agent="",SONY SPORTS TEN 3
+https://sliv.kratosgod.io/api/sonyten3.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_SD_Logo_CLR.png"tvg-chno=""group-title="Sports":http-user-agent="",SONY SPORTS TEN 4
+https://sliv.kratosgod.io/api/sonyten4.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png"tvg-chno=""group-title="Sports":http-user-agent="",SONY SPORTS TEN 5
+https://sliv.kratosgod.io/api/sonyten5.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-261-j5fz9bvk-v4/imageContent-261-j5fz9bvk-m4.png"tvg-chno=""group-title="Sports":http-user-agent="",SONY SPORTS TEN 1 HD
+https://sliv.kratosgod.io/api/sonyten1hd.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11784-j9kylfd4-v2/imageContent-11784-j9kylfd4-m3.png"tvg-chno=""group-title="Sports":http-user-agent="",SONY SPORTS TEN 2 HD
+https://sliv.kratosgod.io/api/sonyten2hd.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-739-j5l4y6yw-v5/imageContent-739-j5l4y6yw-m5.png"tvg-chno=""group-title="Sports":http-user-agent="",SONY SPORTS TEN 3 HD
+https://sliv.kratosgod.io/api/sonyten3hd.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png"tvg-chno=""group-title="Sports":http-user-agent="",SONY SPORTS TEN 4 HD
+https://sliv.kratosgod.io/api/sonyten4hd.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-108-j5fl5wwg-v3/imageContent-108-j5fl5wwg-m3.png"tvg-chno=""group-title="Sports":http-user-agent="",SONY SPORTS TEN 5 HD
+https://sliv.kratosgod.io/api/sonyten5hd.m3u8
+
+
 #EXTINF:-1 tvg-name="DD Sports"tvg-logo="http://192.168.1.36:8086/jtvimage/DD_Sports.png"group-title="Sports",DD Sports
 http://192.168.1.36:8086/live/high/204.m3u8
 #EXTINF:-1 tvg-name="Sony Ten 3 Hindi"tvg-logo="http://192.168.1.36:8086/jtvimage/Ten_3.png"group-title="Sports",Sony Ten 3 Hindi
@@ -625,74 +714,4 @@ https://rakuten-topfree-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Wonder.uk"tvg-logo="https://i.imgur.com/LquGNbh.png"group-title="deep":http-user-agent="",Wonder
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wondernz-samsungnz/playlist.m3u8
 
-
-
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-513-j5jzouqw-v5/imageContent-513-j5jzouqw-m7.png"tvg-chno=""group-title="Sports":http-user-agent="",SONY SPORTS TEN 1
-https://sliv.kratosgod.io/api/sonyten1.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-742-j5l50le0-v5/imageContent-742-j5l50le0-m7.png"tvg-chno=""group-title="Sports":http-user-agent="",SONY SPORTS TEN 2
-https://sliv.kratosgod.io/api/sonyten2.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-739-j5l4y6yw-v5/imageContent-739-j5l4y6yw-m5.png"tvg-chno=""group-title="Sports":http-user-agent="",SONY SPORTS TEN 3
-https://sliv.kratosgod.io/api/sonyten3.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_SD_Logo_CLR.png"tvg-chno=""group-title="Sports":http-user-agent="",SONY SPORTS TEN 4
-https://sliv.kratosgod.io/api/sonyten4.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png"tvg-chno=""group-title="Sports":http-user-agent="",SONY SPORTS TEN 5
-https://sliv.kratosgod.io/api/sonyten5.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-261-j5fz9bvk-v4/imageContent-261-j5fz9bvk-m4.png"tvg-chno=""group-title="Sports":http-user-agent="",SONY SPORTS TEN 1 HD
-https://sliv.kratosgod.io/api/sonyten1hd.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11784-j9kylfd4-v2/imageContent-11784-j9kylfd4-m3.png"tvg-chno=""group-title="Sports":http-user-agent="",SONY SPORTS TEN 2 HD
-https://sliv.kratosgod.io/api/sonyten2hd.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-739-j5l4y6yw-v5/imageContent-739-j5l4y6yw-m5.png"tvg-chno=""group-title="Sports":http-user-agent="",SONY SPORTS TEN 3 HD
-https://sliv.kratosgod.io/api/sonyten3hd.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png"tvg-chno=""group-title="Sports":http-user-agent="",SONY SPORTS TEN 4 HD
-https://sliv.kratosgod.io/api/sonyten4hd.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-108-j5fl5wwg-v3/imageContent-108-j5fl5wwg-m3.png"tvg-chno=""group-title="Sports":http-user-agent="",SONY SPORTS TEN 5 HD
-https://sliv.kratosgod.io/api/sonyten5hd.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/8DqZtPr/Picsart-24-06-12-14-26-56-576.png"tvg-chno=""group-title="Movies":http-user-agent="",Star Gold 2 HD
-http://sansat.net:25461/02028857936892/0751169096/96343
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/cQ7Tx24/Picsart-24-06-12-15-22-33-860.png"tvg-chno=""group-title="Movies":http-user-agent="",Star Utsav Movies
-http://sansat.net:25461/02028857936892/0751169096/96178
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://bigcchubchat.pages.dev/80.png"tvg-chno=""group-title="Movies":http-user-agent="",SONY MAX HD
-https://sliv.kratosgod.io/api/sonymaxhd.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-441-j5jt3mmg-v3/imageContent-441-j5jt3mmg-m3.png"tvg-chno=""group-title="Movies":http-user-agent="",SONY MAX
-https://sliv.kratosgod.io/api/sonymax.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://bigcchubchat.pages.dev/56.png"tvg-chno=""group-title="Movies":http-user-agent="",Sony Wah
-https://sliv.kratosgod.io/api/sonywah.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://bigcchubchat.pages.dev/120.png"tvg-chno=""group-title="Movies":http-user-agent="",SONY MAX 2
-https://sliv.kratosgod.io/api/sonymax2.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://bigcchubchat.pages.dev/48.png"tvg-chno=""group-title="Entertainment":http-user-agent="",SONY SAB HD
-https://sliv.kratosgod.io/api/sabhd.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://bigcchubchat.pages.dev/554.png"tvg-chno=""group-title="Entertainment":http-user-agent="",Sony Pal
-https://sliv.kratosgod.io/api/sonypal.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m3u-editor.com/storage/channel-logos/a9655440-2fd6-11ef-9eb1-617925ce2957/6907970/1190192257.png"tvg-chno=""group-title="Entertainment":http-user-agent="",Sony Kal
-https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m3u-editor.com/storage/channel-logos/a9655440-2fd6-11ef-9eb1-617925ce2957/6900506/1190810095.png"tvg-chno=""group-title="Movies":http-user-agent="",AXN
-http://starshare.live:8080/live/7884362065/8020257649/143058.ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/YNRhYwy/Picsart-24-02-24-08-03-20-802.png"tvg-chno=""group-title="Movies":http-user-agent="",Star Movies HD
-http://sansat.net:25461/02028857936892/0751169096/93668
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/fqH6cm0/Picsart-24-02-24-08-09-40-552.png"tvg-chno=""group-title="Movies":http-user-agent="",Star Movies Select HD
-http://sansat.net:25461/02028857936892/0751169096/93669
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://bigcchubchat.pages.dev/32.png"tvg-chno=""group-title="Movies":http-user-agent="",SONY PIX HD
-http://starshare.live:8080/live/7884362065/8020257649/9381.ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://bigcchubchat.pages.dev/460.png"tvg-chno=""group-title="infotainment":http-user-agent="",SONY BBC Earth HD
-http://starshare.live:8080/live/7884362065/8020257649/98871.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4jOSoK1R70fLjm2L3SiQFvsIk9gFt33EiQcE1Vze_iXA-NMzwSBE21AI&s=10"group-title="Movies",Star Gold HD
-http://xtv.ooo:8080/live/574453/774499/66178.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gctfzMTn/73770383-cms.png"group-title="Movies",Star Gold 2
-http://xtv.ooo:8080/live/574453/774499/106133.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiFrgItzysUrYMdT6RqRHIrfl48ocKNwYKuJWgTTlLEA&s"group-title="Movies",Star Gold THRILLS
-http://filex.tv:8080/Restreaming@Filex@MalikBilal007@854369/HelloSky@MalikBilal@LiveTv@7544898/189473
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ktgkqwj.png"group-title="Movies",Star Gold Select HD
-http://xtv.ooo:8080/live/574453/774499/66176.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqG3yBIlXqLMpw8rgS_AynI4fGWfll0bHVGIoO2e3TVUC9nTiwo5bLiyQ&s=10"group-title="Movies",Star Gold Romance
-http://xtv.ooo:8080/live/574453/774499/66186.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXv4xURd0N6Rfwu0GGcXn6DPoVDOnxR-I2jiyiyEIejAItC4F5Uj3mAT9p&s=10"group-title="Movies",Goldmines Bollywood
-https://evbr.short.gy/BDStreamHub/Goldmines_Bollywood.ts
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/142/505/png-transparent-hbo-home-box-officce-television-brands-and-logos-icon.png"group-title="Movies",HBO
-http://tv.cloudcdn.me:80/live.ts?channelId=49858&uid=13556&deviceMac=00:1A:79:AB:DF:A6
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png"group-title="Movies",Star Movies HD
-http://xtv.ooo:8080/live/574453/774499/66213.ts
-#EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1640857479-98084000.png?v=8.2.3"group-title="Movies",Star Movies Select HD
-http://opplex.tv:8080/live/umera1234/2345678/66315.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png"group-title="Kids",Disney HD
-http://xtv.ooo:8080/live/Behraam223/8237588/167551.ts
 
