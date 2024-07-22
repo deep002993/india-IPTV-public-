@@ -513,6 +513,14 @@ http://192.168.1.41:5001/live/high/3055.m3u8
 #EXTINF:-1 tvg-name="The Q Kahaniyan"tvg-logo="http://192.168.1.41:5001/jtvimage/The_Q_Kahaniyan.png"group-title="Kids",The Q Kahaniyan
 http://192.168.1.41:5001/live/high/1920.m3u8
 
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-739-j5l4y6yw-v5/imageContent-739-j5l4y6yw-m5.png"tvg-chno=""group-title="Sports":http-user-agent="",SONY SPORTS TEN 3 HD
+https://sliv.kratosgod.io/api/sonyten3hd.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-108-j5fl5wwg-v3/imageContent-108-j5fl5wwg-m3.png"tvg-chno=""group-title="Sports":http-user-agent="",SONY SPORTS TEN 5 HD
+https://sliv.kratosgod.io/api/sonyten5hd.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png"tvg-chno=""group-title="Sports":http-user-agent="",SONY SPORTS TEN 5
+https://sliv.kratosgod.io/api/sonyten5.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11784-j9kylfd4-v2/imageContent-11784-j9kylfd4-m3.png"tvg-chno=""group-title="Sports":http-user-agent="",SONY SPORTS TEN 2 HD
+https://sliv.kratosgod.io/api/sonyten2hd.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-513-j5jzouqw-v5/imageContent-513-j5jzouqw-m7.png"tvg-chno=""group-title="Sports":http-user-agent="",SONY SPORTS TEN 1
 https://sliv.kratosgod.io/api/sonyten1.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-742-j5l50le0-v5/imageContent-742-j5l50le0-m7.png"tvg-chno=""group-title="Sports":http-user-agent="",SONY SPORTS TEN 2
@@ -521,38 +529,20 @@ https://sliv.kratosgod.io/api/sonyten2.m3u8
 https://sliv.kratosgod.io/api/sonyten3.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_SD_Logo_CLR.png"tvg-chno=""group-title="Sports":http-user-agent="",SONY SPORTS TEN 4
 https://sliv.kratosgod.io/api/sonyten4.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png"tvg-chno=""group-title="Sports":http-user-agent="",SONY SPORTS TEN 5
-https://sliv.kratosgod.io/api/sonyten5.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-261-j5fz9bvk-v4/imageContent-261-j5fz9bvk-m4.png"tvg-chno=""group-title="Sports":http-user-agent="",SONY SPORTS TEN 1 HD
 https://sliv.kratosgod.io/api/sonyten1hd.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11784-j9kylfd4-v2/imageContent-11784-j9kylfd4-m3.png"tvg-chno=""group-title="Sports":http-user-agent="",SONY SPORTS TEN 2 HD
-https://sliv.kratosgod.io/api/sonyten2hd.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-739-j5l4y6yw-v5/imageContent-739-j5l4y6yw-m5.png"tvg-chno=""group-title="Sports":http-user-agent="",SONY SPORTS TEN 3 HD
-https://sliv.kratosgod.io/api/sonyten3hd.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png"tvg-chno=""group-title="Sports":http-user-agent="",SONY SPORTS TEN 4 HD
 https://sliv.kratosgod.io/api/sonyten4hd.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-108-j5fl5wwg-v3/imageContent-108-j5fl5wwg-m3.png"tvg-chno=""group-title="Sports":http-user-agent="",SONY SPORTS TEN 5 HD
-https://sliv.kratosgod.io/api/sonyten5hd.m3u8
 
 
-#EXTINF:-1 tvg-name="DD Sports"tvg-logo="http://192.168.1.41:5001/jtvimage/DD_Sports.png"group-title="Sports",DD Sports
-http://192.168.1.41:5001/live/high/204.m3u8
-#EXTINF:-1 tvg-name="Sony Ten 3 Hindi"tvg-logo="http://192.168.1.41:5001/jtvimage/Ten_3.png"group-title="Sports",Sony Ten 3 Hindi
-http://192.168.1.41:5001/live/high/524.m3u8
-#EXTINF:-1 tvg-name="Sony Ten 3 HD Hindi"tvg-logo="http://192.168.1.41:5001/jtvimage/Ten3_HD.png"group-title="Sports",Sony Ten 3 HD Hindi
-http://192.168.1.41:5001/live/high/892.m3u8
 #EXTINF:-1 tvg-name="Sports18 Khel"tvg-logo="http://192.168.1.41:5001/jtvimage/Sports18_Khel.png"group-title="Sports",Sports18 Khel
 http://192.168.1.41:5001/live/high/1998.m3u8
-#EXTINF:-1 tvg-name="SL Sony TEN 3 HD"tvg-logo="http://192.168.1.41:5001/jtvimage/Ten3_HD.png"group-title="Sports",SL Sony TEN 3 HD
-http://192.168.1.41:5001/live/high/sl892.m3u8
 #EXTINF:-1 tvg-name="Eurosport HD"tvg-logo="http://192.168.1.41:5001/jtvimage/Dsports_HD.png"group-title="Sports",Eurosport HD
 http://192.168.1.41:5001/live/high/875.m3u8
-#EXTINF:-1 tvg-name="Sony Ten 2 HD"tvg-logo="http://192.168.1.41:5001/jtvimage/Ten2_HD.png"group-title="Sports",Sony Ten 2 HD
-http://192.168.1.41:5001/live/high/891.m3u8
 #EXTINF:-1 tvg-name="Eurosport"tvg-logo="http://192.168.1.41:5001/jtvimage/Dsports.png"group-title="Sports",Eurosport
 http://192.168.1.41:5001/live/high/1294.m3u8
-#EXTINF:-1 tvg-name="Jio Cricket English HD"tvg-logo="http://192.168.1.41:5001/jtvimage/Jio_Cricket_English.png"group-title="Sports",Jio Cricket English HD
-http://192.168.1.41:5001/live/high/1918.m3u8
+#EXTINF:-1 tvg-name="DD Sports"tvg-logo="http://192.168.1.41:5001/jtvimage/DD_Sports.png"group-title="Sports",DD Sports
+http://192.168.1.41:5001/live/high/204.m3u8
 #EXTINF:-1 tvg-name="Sports18 1 HD"tvg-logo="http://192.168.1.41:5001/jtvimage/Sports18_1_HD.png"group-title="Sports",Sports18 1 HD
 http://192.168.1.41:5001/live/high/1984.m3u8
 #EXTINF:-1 tvg-name="Sports18 1"tvg-logo="http://192.168.1.41:5001/jtvimage/Sports18_1_SD.png"group-title="Sports",Sports18 1
@@ -561,6 +551,16 @@ http://192.168.1.41:5001/live/high/1985.m3u8
 http://192.168.1.41:5001/live/high/2766.m3u8
 #EXTINF:-1 tvg-name="Red Bull TV"tvg-logo="http://192.168.1.41:5001/jtvimage/Red_Bull_TV.png"group-title="Sports",Red Bull TV
 http://192.168.1.41:5001/live/high/2779.m3u8
+#EXTINF:-1 tvg-name="Jio Cricket English HD"tvg-logo="http://192.168.1.41:5001/jtvimage/Jio_Cricket_English.png"group-title="Sports",Jio Cricket English HD
+http://192.168.1.41:5001/live/high/1918.m3u8
+#EXTINF:-1 tvg-name="Sony Ten 3 Hindi"tvg-logo="http://192.168.1.41:5001/jtvimage/Ten_3.png"group-title="Sports",Sony Ten 3 Hindi
+http://192.168.1.41:5001/live/high/524.m3u8
+#EXTINF:-1 tvg-name="Sony Ten 3 HD Hindi"tvg-logo="http://192.168.1.41:5001/jtvimage/Ten3_HD.png"group-title="Sports",Sony Ten 3 HD Hindi
+http://192.168.1.41:5001/live/high/892.m3u8
+#EXTINF:-1 tvg-name="SL Sony TEN 3 HD"tvg-logo="http://192.168.1.41:5001/jtvimage/Ten3_HD.png"group-title="Sports",SL Sony TEN 3 HD
+http://192.168.1.41:5001/live/high/sl892.m3u8
+#EXTINF:-1 tvg-name="Sony Ten 2 HD"tvg-logo="http://192.168.1.41:5001/jtvimage/Ten2_HD.png"group-title="Sports",Sony Ten 2 HD
+http://192.168.1.41:5001/live/high/891.m3u8
 #EXTINF:-1 tvg-name="SL Sony TEN 1 HD"tvg-logo="http://192.168.1.41:5001/jtvimage/Ten_HD.png"group-title="Sports",SL Sony TEN 1 HD
 http://192.168.1.41:5001/live/high/sl162.m3u8
 #EXTINF:-1 tvg-name="SL Sony TEN 2 HD"tvg-logo="http://192.168.1.41:5001/jtvimage/Ten2_HD.png"group-title="Sports",SL Sony TEN 2 HD
