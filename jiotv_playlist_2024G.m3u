@@ -61,8 +61,6 @@ http://starshare.live:8080/live/7884362065/8020257649/143058.ts
 http://tv.cloudcdn.me:80/live.ts?channelId=49858&uid=13556&deviceMac=00:1A:79:AB:DF:A6
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png"group-title="Movies",Star Movies HD
 http://xtv.ooo:8080/live/574453/774499/66213.ts
-#EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1640857479-98084000.png?v=8.2.3"group-title="Movies",Star Movies Select HD
-http://opplex.tv:8080/live/umera1234/2345678/66315.ts
 
 
 
