@@ -101,6 +101,8 @@ https://sliv.kratosgod.io/api/sabhd.m3u8
 https://sliv.kratosgod.io/api/sonypal.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m3u-editor.com/storage/channel-logos/a9655440-2fd6-11ef-9eb1-617925ce2957/6907970/1190192257.png"tvg-chno=""group-title="Entertainment":http-referrer="":http-user-agent="",Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://bigcchubchat.pages.dev/56.png"tvg-chno=""group-title="Movies":http-referrer="":http-user-agent="",Sony Wah
+https://sliv.kratosgod.io/api/sonywah.m3u8
 #EXTINF:-1 tvg-name="Colors HD"tvg-id=""tvg-logo="http://192.168.1.41:5001/jtvimage/Colors_HD.png"tvg-chno=""group-title="Entertainment":http-referrer="":http-user-agent="",Colors HD
 http://192.168.1.41:5001/live/high/144.m3u8
 #EXTINF:-1 tvg-name="Colors SD"tvg-id=""tvg-logo="http://192.168.1.41:5001/jtvimage/Colors_SD.png"tvg-chno=""group-title="Entertainment":http-referrer="":http-user-agent="",Colors SD
@@ -111,8 +113,7 @@ http://192.168.1.41:5001/live/high/167.m3u8
 http://192.168.1.41:5001/live/high/1351.m3u8
 #EXTINF:-1 tvg-name="Zee Anmol"tvg-id=""tvg-logo="http://192.168.1.41:5001/jtvimage/Zee_Anmol.png"tvg-chno=""group-title="Entertainment":http-referrer="":http-user-agent="",Zee Anmol
 http://192.168.1.41:5001/live/high/473.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://bigcchubchat.pages.dev/56.png"tvg-chno=""group-title="Movies":http-referrer="":http-user-agent="",Sony Wah
-https://sliv.kratosgod.io/api/sonywah.m3u8
+
 #EXTINF:-1 tvg-name="Rishtey"tvg-id=""tvg-logo="http://192.168.1.41:5001/jtvimage/Rishtey.png"tvg-chno=""group-title="Entertainment":http-referrer="":http-user-agent="",Rishtey
 http://192.168.1.41:5001/live/high/279.m3u8
 #EXTINF:-1 tvg-name="Comedy Central HD"tvg-id=""tvg-logo="http://192.168.1.41:5001/jtvimage/Comedy_Central_HD.png"tvg-chno=""group-title="Entertainment":http-referrer="":http-user-agent="",Comedy Central HD
