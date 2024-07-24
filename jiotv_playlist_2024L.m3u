@@ -53,8 +53,7 @@ http://sansat.net:25461/02028857936892/0751169096/93669
 http://starshare.live:8080/live/7884362065/8020257649/9381.ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m3u-editor.com/storage/channel-logos/a9655440-2fd6-11ef-9eb1-617925ce2957/6900506/1190810095.png"tvg-chno=""group-title="Movies":http-referrer="":http-user-agent="",AXN
 http://starshare.live:8080/live/7884362065/8020257649/143058.ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png"tvg-chno=""group-title="Movies":http-referrer="":http-user-agent="",Star Movies HD
-http://xtv.ooo:8080/live/574453/774499/66213.ts
+
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://w7.pngwing.com/pngs/142/505/png-transparent-hbo-home-box-officce-television-brands-and-logos-icon.png"tvg-chno=""group-title="Movies":http-referrer="":http-user-agent="",HBO
 http://tv.cloudcdn.me:80/live.ts?channelId=49858&uid=13556&deviceMac=00:1A:79:AB:DF:A6
 #EXTINF:-1 tvg-name="B4U Movies"tvg-id=""tvg-logo="http://192.168.1.41:5001/jtvimage/B4U_Movies.png"tvg-chno=""group-title="Movies":http-referrer="":http-user-agent="",B4U Movies
@@ -63,8 +62,7 @@ http://192.168.1.41:5001/live/high/182.m3u8
 http://192.168.1.41:5001/live/high/1295.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/cQ7Tx24/Picsart-24-06-12-15-22-33-860.png"tvg-chno=""group-title="Movies":http-referrer="":http-user-agent="",Star Utsav Movies
 http://sansat.net:25461/02028857936892/0751169096/96178
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiFrgItzysUrYMdT6RqRHIrfl48ocKNwYKuJWgTTlLEA&s"tvg-chno=""group-title="Movies":http-referrer="":http-user-agent="",Star Gold THRILLS
-http://filex.tv:8080/Restreaming@Filex@MalikBilal007@854369/HelloSky@MalikBilal@LiveTv@7544898/189473
+
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqG3yBIlXqLMpw8rgS_AynI4fGWfll0bHVGIoO2e3TVUC9nTiwo5bLiyQ&s=10"tvg-chno=""group-title="Movies":http-referrer="":http-user-agent="",Star Gold Romance
 http://xtv.ooo:8080/live/574453/774499/66186.ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXv4xURd0N6Rfwu0GGcXn6DPoVDOnxR-I2jiyiyEIejAItC4F5Uj3mAT9p&s=10"tvg-chno=""group-title="Movies":http-referrer="":http-user-agent="",Goldmines Bollywood
