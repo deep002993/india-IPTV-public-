@@ -29,10 +29,25 @@ http://192.168.1.41:5001/live/high/zl488.m3u8
 http://192.168.1.41:5001/live/high/zl415.m3u8
 
 
-#EXTINF:-1 tvg-name="Sony Pix SD"tvg-logo="http://192.168.1.41:5001/jtvimage/Sony_Pix_SD.png"group-title="Movies",Sony Pix SD
-http://192.168.1.41:5001/live/high/1530.m3u8
+
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://bigcchubchat.pages.dev/32.png" tvg-chno="" group-title="Movies" :http-referrer="" :http-user-agent="",SONY PIX HD
 https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
+#EXTINF:-1 tvg-id=zl707106 tvg-name="ZL Star Movies HD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png" tvg-language="Marathi" tvg-type="" group-title="", ZL Star Movies HD
+http://192.168.1.41:5001/live/high/zl707106.m3u8
+#EXTINF:-1 tvg-id=zl707107 tvg-name="ZL Star Movies HD Alt" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png" tvg-language="Marathi" tvg-type="" group-title="", ZL Star Movies HD Alt
+http://192.168.1.41:5001/live/high/zl707107.m3u8
+#EXTINF:-1 tvg-id=zl707108 tvg-name="ZL Star Movies Select HD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png" tvg-language="Marathi" tvg-type="" group-title="", ZL Star Movies Select HD
+http://192.168.1.41:5001/live/high/zl707108.m3u8
+#EXTINF:-1 tvg-id=zl707101 tvg-name="ZL Star Plus HD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", ZL Star Plus HD
+http://192.168.1.41:5001/live/high/zl707101.m3u8
+#EXTINF:-1 tvg-id=zl707102 tvg-name="ZL Star Bharat HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6896-j6vqiroo-v2/imageContent-6896-j6vqiroo-m2.jpg" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", ZL Star Bharat HD
+http://192.168.1.41:5001/live/high/zl707102.m3u8
+#EXTINF:-1 tvg-id=zl707103 tvg-name="ZL Star Gold 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/Star_Gold_2_HD_2020.svg/revision/latest/scale-to-width-down/250?cb=20211215235613" tvg-language="Hindi" tvg-type="" group-title="", ZL Star Gold 2 HD
+http://192.168.1.41:5001/live/high/zl707103.m3u8
+#EXTINF:-1 tvg-id=zl707104 tvg-name="ZL Star Gold Thrills" tvg-logo="https://news.indiantvinfo.com/media/2023/03/Star-Gold-Thrills-Logo.png" tvg-language="Hindi" tvg-type="" group-title="", ZL Star Gold Thrills
+http://192.168.1.41:5001/live/high/zl707104.m3u8
+#EXTINF:-1 tvg-id=zl707105 tvg-name="ZL Star Gold Romance" tvg-logo="https://yt3.googleusercontent.com/_FS_nI0XiLtcGZvdzA6YhLF9nUW7_F8c6TkK9YOlC1lfvVykFJJxx58ths3_NJ1_GjSGDul-hPc=s900-c-k-c0x00ffffff-no-rj" tvg-language="Hindi" tvg-type="" group-title="", ZL Star Gold Romance
+http://192.168.1.41:5001/live/high/zl707105.m3u8
 
 
 #EXTINF:-1 tvg-name="Shemaroo Bollywood"tvg-logo="http://192.168.1.41:5001/jtvimage/shemaroobollywood.png"group-title="Movies",Shemaroo Bollywood
