@@ -29,7 +29,14 @@ http://192.168.1.41:5001/live/high/zl488.m3u8
 http://192.168.1.41:5001/live/high/zl415.m3u8
 
 
-
+#EXTINF:-1 tvg-name="Movies Now HD"tvg-logo="http://192.168.1.41:5001/jtvimage/Movies_Now_HD.png"group-title="Movies",Movies Now HD
+http://192.168.1.41:5001/live/high/151.m3u8
+#EXTINF:-1 tvg-name="MN+ HD"tvg-logo="http://192.168.1.41:5001/jtvimage/MNPLUS.png"group-title="Movies",MN+ HD
+http://192.168.1.41:5001/live/high/477.m3u8
+#EXTINF:-1 tvg-name="MNX HD"tvg-logo="http://192.168.1.41:5001/jtvimage/Movies_Now2_HD.png"group-title="Movies",MNX HD
+http://192.168.1.41:5001/live/high/877.m3u8
+#EXTINF:-1 tvg-name="Romedy Now"tvg-logo="http://192.168.1.41:5001/jtvimage/Romedy_Now_HD.png"group-title="Movies",Romedy Now
+http://192.168.1.41:5001/live/high/1401.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://bigcchubchat.pages.dev/32.png" tvg-chno="" group-title="Movies" :http-referrer="" :http-user-agent="",SONY PIX HD
 https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
 #EXTINF:-1 tvg-id=zl707106 tvg-name="ZL Star Movies HD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png" group-title="Movies", ZL Star Movies HD
