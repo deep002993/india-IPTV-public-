@@ -7,27 +7,14 @@ http://192.168.1.41:5001/live/high/1450.m3u8
 http://192.168.1.41:5001/live/high/1477.m3u8
 #EXTINF:-1  tvg-name="Colors Cineplex" tvg-id="" tvg-logo="http://192.168.1.41:5001/jtvimage/Colors_Cineplex.png" tvg-chno="" group-title="Movies" :http-referrer="" :http-user-agent="",Colors Cineplex
 http://192.168.1.41:5001/live/high/482.m3u8
-
-
-
-#EXTINF:-1 tvg-name="ZL And Pictures HD"tvg-logo="http://192.168.1.41:5001/jtvimage/And_Pictures_HD.png"group-title="Movies",ZL And Pictures HD
-http://192.168.1.41:5001/live/high/zl185.m3u8
-#EXTINF:-1 tvg-name="ZL And Pictures"tvg-logo="http://192.168.1.41:5001/jtvimage/And_Pictures.png"group-title="Movies",ZL And Pictures
-http://192.168.1.41:5001/live/high/zl1839.m3u8
-#EXTINF:-1 tvg-name="ZL Zee Cinema HD"tvg-logo="http://192.168.1.41:5001/jtvimage/Zee_Cinema_HD.png"group-title="Movies",ZL Zee Cinema HD
-http://192.168.1.41:5001/live/high/zl165.m3u8
-
-
-#EXTINF:-1 tvg-name="ZL Zee Cinema"tvg-logo="http://192.168.1.41:5001/jtvimage/Zee_Cinema.png"group-title="Movies",ZL Zee Cinema
-http://192.168.1.41:5001/live/high/zl484.m3u8
-
-#EXTINF:-1 tvg-name="ZL Zee Bollywood"tvg-logo="http://192.168.1.41:5001/jtvimage/Zee_Classic.png"group-title="Movies",ZL Zee Bollywood
-http://192.168.1.41:5001/live/high/zl487.m3u8
-#EXTINF:-1 tvg-name="ZL Zee Action"tvg-logo="http://192.168.1.41:5001/jtvimage/Zee_Action.png"group-title="Movies",ZL Zee Action
-http://192.168.1.41:5001/live/high/zl488.m3u8
-#EXTINF:-1 tvg-name="ZL Zee Anmol Cinema"tvg-logo="http://192.168.1.41:5001/jtvimage/Zee_Anmol_Cinema.png"group-title="Movies",ZL Zee Anmol Cinema
-http://192.168.1.41:5001/live/high/zl415.m3u8
-
+#EXTINF:-1  tvg-name="B4U Movies" tvg-id="" tvg-logo="http://192.168.1.41:5001/jtvimage/B4U_Movies.png" tvg-chno="" group-title="Movies" :http-referrer="" :http-user-agent="",B4U Movies
+http://192.168.1.41:5001/live/high/182.m3u8
+#EXTINF:-1  tvg-name="B4U Kadak" tvg-id="" tvg-logo="http://192.168.1.41:5001/jtvimage/B4U_Kadak.png" tvg-chno="" group-title="Movies" :http-referrer="" :http-user-agent="",B4U Kadak
+http://192.168.1.41:5001/live/high/1295.m3u8
+#EXTINF:-1 tvg-name="Shemaroo Bollywood"tvg-logo="http://192.168.1.41:5001/jtvimage/shemaroobollywood.png"group-title="Movies",Shemaroo Bollywood
+http://192.168.1.41:5001/live/high/3075.m3u8
+#EXTINF:-1  tvg-name="Maha Movies" tvg-id="" tvg-logo="http://192.168.1.41:5001/jtvimage/Maha_Movies.png" tvg-chno="" group-title="Movies" :http-referrer="" :http-user-agent="",Maha Movies
+http://192.168.1.41:5001/live/high/809.m3u8
 
 #EXTINF:-1 tvg-name="Movies Now HD"tvg-logo="http://192.168.1.41:5001/jtvimage/Movies_Now_HD.png"group-title="Movies",Movies Now HD
 http://192.168.1.41:5001/live/high/151.m3u8
@@ -41,32 +28,7 @@ http://192.168.1.41:5001/live/high/1401.m3u8
 https://streamer1.nexgen.bz/AXN/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://bigcchubchat.pages.dev/32.png" tvg-chno="" group-title="Movies" :http-referrer="" :http-user-agent="",SONY PIX HD
 https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
-#EXTINF:-1 tvg-id=zl707106 tvg-name="ZL Star Movies HD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png" group-title="Movies", ZL Star Movies HD
-http://192.168.1.41:5001/live/high/zl707106.m3u8
-#EXTINF:-1 tvg-id=zl707107 tvg-name="ZL Star Movies HD Alt" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png" group-title="Movies", ZL Star Movies HD Alt
-http://192.168.1.41:5001/live/high/zl707107.m3u8
-#EXTINF:-1 tvg-id=zl707108 tvg-name="ZL Star Movies Select HD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png" group-title="Movies", ZL Star Movies Select HD
-http://192.168.1.41:5001/live/high/zl707108.m3u8
-#EXTINF:-1 tvg-id=zl707101 tvg-name="ZL Star Plus HD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png" group-title="Entertainment", ZL Star Plus HD
-http://192.168.1.41:5001/live/high/zl707101.m3u8
-#EXTINF:-1 tvg-id=zl707102 tvg-name="ZL Star Bharat HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6896-j6vqiroo-v2/imageContent-6896-j6vqiroo-m2.jpg" group-title="Entertainment", ZL Star Bharat HD
-http://192.168.1.41:5001/live/high/zl707102.m3u8
-#EXTINF:-1 tvg-id=zl707103 tvg-name="ZL Star Gold 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/Star_Gold_2_HD_2020.svg/revision/latest/scale-to-width-down/250?cb=20211215235613" group-title="Movies", ZL Star Gold 2 HD
-http://192.168.1.41:5001/live/high/zl707103.m3u8
-#EXTINF:-1 tvg-id=zl707104 tvg-name="ZL Star Gold Thrills" tvg-logo="https://news.indiantvinfo.com/media/2023/03/Star-Gold-Thrills-Logo.png" group-title="Movies", ZL Star Gold Thrills
-http://192.168.1.41:5001/live/high/zl707104.m3u8
-#EXTINF:-1 tvg-id=zl707105 tvg-name="ZL Star Gold Romance" tvg-logo="https://yt3.googleusercontent.com/_FS_nI0XiLtcGZvdzA6YhLF9nUW7_F8c6TkK9YOlC1lfvVykFJJxx58ths3_NJ1_GjSGDul-hPc=s900-c-k-c0x00ffffff-no-rj" group-title="Movies", ZL Star Gold Romance
-http://192.168.1.41:5001/live/high/zl707105.m3u8
 
-
-#EXTINF:-1 tvg-name="Shemaroo Bollywood"tvg-logo="http://192.168.1.41:5001/jtvimage/shemaroobollywood.png"group-title="Movies",Shemaroo Bollywood
-http://192.168.1.41:5001/live/high/3075.m3u8
-#EXTINF:-1  tvg-name="B4U Movies" tvg-id="" tvg-logo="http://192.168.1.41:5001/jtvimage/B4U_Movies.png" tvg-chno="" group-title="Movies" :http-referrer="" :http-user-agent="",B4U Movies
-http://192.168.1.41:5001/live/high/182.m3u8
-#EXTINF:-1  tvg-name="B4U Kadak" tvg-id="" tvg-logo="http://192.168.1.41:5001/jtvimage/B4U_Kadak.png" tvg-chno="" group-title="Movies" :http-referrer="" :http-user-agent="",B4U Kadak
-http://192.168.1.41:5001/live/high/1295.m3u8
-#EXTINF:-1  tvg-name="Maha Movies" tvg-id="" tvg-logo="http://192.168.1.41:5001/jtvimage/Maha_Movies.png" tvg-chno="" group-title="Movies" :http-referrer="" :http-user-agent="",Maha Movies
-http://192.168.1.41:5001/live/high/809.m3u8
 #EXTINF:-1  tvg-name="Sony Max SD" tvg-id="" tvg-logo="http://192.168.1.41:5001/jtvimage/Sony_Max_SD.png" tvg-chno="" group-title="Movies" :http-referrer="" :http-user-agent="",Sony Max SD
 http://192.168.1.41:5001/live/high/289.m3u8
 #EXTINF:-1  tvg-name="Sony Max HD" tvg-id="" tvg-logo="http://192.168.1.41:5001/jtvimage/Sony_Max_HD.png" tvg-chno="" group-title="Movies" :http-referrer="" :http-user-agent="",Sony Max HD
@@ -87,18 +49,6 @@ http://192.168.1.41:5001/live/high/2762.m3u8
 http://192.168.1.41:5001/live/high/3054.m3u8
 #EXTINF:-1  tvg-name="Hiff Movies" tvg-id="" tvg-logo="http://192.168.1.41:5001/jtvimage/Hiff_Movies.png" tvg-chno="" group-title="Movies" :http-referrer="" :http-user-agent="",Hiff Movies
 http://192.168.1.41:5001/live/high/3060.m3u8
-
-
-#EXTINF:-1 tvg-name="ZL And TV HD"tvg-logo="http://192.168.1.41:5001/jtvimage/And_TV_HD.png"group-title="Entertainment",ZL And TV HD
-http://192.168.1.41:5001/live/high/zl472.m3u8
-#EXTINF:-1 tvg-name="ZL And TV"tvg-logo="http://192.168.1.41:5001/jtvimage/And_TV.png"group-title="Entertainment",ZL And TV
-http://192.168.1.41:5001/live/high/zl2024.m3u8
-#EXTINF:-1 tvg-name="ZL Zee TV"tvg-logo="http://192.168.1.41:5001/jtvimage/Zee_TV.png"group-title="Entertainment",ZL Zee TV
-http://192.168.1.41:5001/live/high/zl1351.m3u8
-#EXTINF:-1 tvg-name="ZL Zee TV HD"tvg-logo="http://192.168.1.41:5001/jtvimage/Zee_TV_HD.png"group-title="Entertainment",ZL Zee TV HD
-http://192.168.1.41:5001/live/high/zl167.m3u8
-#EXTINF:-1 tvg-name="ZL Zee Anmol"tvg-logo="http://192.168.1.41:5001/jtvimage/Zee_Anmol.png"group-title="Entertainment",ZL Zee Anmol
-http://192.168.1.41:5001/live/high/zl473.m3u8
 
 #EXTINF:-1  tvg-name="Colors HD" tvg-id="" tvg-logo="http://192.168.1.41:5001/jtvimage/Colors_HD.png" tvg-chno="" group-title="Entertainment" :http-referrer="" :http-user-agent="",Colors HD
 http://192.168.1.41:5001/live/high/144.m3u8
