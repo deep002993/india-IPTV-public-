@@ -602,269 +602,439 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wondernz-sa
 
 
 
-#EXTINF:-1  tvg-name="" tvg-id="1000009246" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="@allinone_reborn | SONYLIV" catchup="" catchup-source="" catchup-days="",SET HD
-https://allinonereborn.com/sonyliv.m3u8?ch=SETHD&id=2011671
-#EXTINF:-1  tvg-name="" tvg-id="1000009248" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="@allinone_reborn | SONYLIV" catchup="" catchup-source="" catchup-days="",Sony SAB HD
-https://allinonereborn.com/sonyliv.m3u8?ch=SABHD&id=2011749
-#EXTINF:-1  tvg-name="" tvg-id="1000009273" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="@allinone_reborn | SONYLIV" catchup="" catchup-source="" catchup-days="",Sony PAL
-https://allinonereborn.com/sonyliv.m3u8?ch=SonyPalSD&id=2011741
-#EXTINF:-1  tvg-name="" tvg-id="1000001971" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="@allinone_reborn | SONYLIV" catchup="" catchup-source="" catchup-days="",Sony YAY
-https://allinonereborn.com/sonyliv.m3u8?ch=SonyYaySD&id=2011746
-#EXTINF:-1  tvg-name="" tvg-id="1000009255" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="@allinone_reborn | SONYLIV" catchup="" catchup-source="" catchup-days="",Sony AATH
-https://allinonereborn.com/sonyliv.m3u8?ch=SonyAathSD&id=2011641
-#EXTINF:-1  tvg-name="" tvg-id="1000009259" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MARATHI.png" group-title="@allinone_reborn | SONYLIV" catchup="" catchup-source="" catchup-days="",Sony Marathi
-https://allinonereborn.com/sonyliv.m3u8?ch=SonyMarathi&id=2011740
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://c.evidon.com/pub_logos/2796-2021122219404475.png" group-title="@allinone_reborn | SONYLIV" catchup="" catchup-source="" catchup-days="",Sony Kal
+#EXTINF:-1 group-logo="https://i.ibb.co/q9b5TMJ/fallback-sonyliv-logo-1.png" tvg-id="1000009246" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="@allinone_reborn | SONYLIV", SET HD
+https://allinonereborn.site/sonylive.m3u8?ch=SETHD&id=2011671
+
+
+#EXTINF:-1 group-logo="https://i.ibb.co/q9b5TMJ/fallback-sonyliv-logo-1.png" tvg-id="1000009248" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="@allinone_reborn | SONYLIV", Sony SAB HD
+https://allinonereborn.site/sonylive.m3u8?ch=SABHD&id=2011749
+
+
+#EXTINF:-1 group-logo="https://i.ibb.co/q9b5TMJ/fallback-sonyliv-logo-1.png" tvg-id="1000009273" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="@allinone_reborn | SONYLIV", Sony PAL
+https://allinonereborn.site/sonylive.m3u8?ch=SonyPalSD&id=2011741
+
+
+#EXTINF:-1 group-logo="https://i.ibb.co/q9b5TMJ/fallback-sonyliv-logo-1.png" tvg-id="1000001971" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="@allinone_reborn | SONYLIV", Sony YAY
+https://allinonereborn.site/sonylive.m3u8?ch=SonyYaySD&id=2011746
+
+
+#EXTINF:-1 group-logo="https://i.ibb.co/q9b5TMJ/fallback-sonyliv-logo-1.png" tvg-id="1000009255" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="@allinone_reborn | SONYLIV", Sony AATH
+https://allinonereborn.site/sonylive.m3u8?ch=SonyAathSD&id=2011641
+
+
+#EXTINF:-1 group-logo="https://i.ibb.co/q9b5TMJ/fallback-sonyliv-logo-1.png" tvg-id="1000009259" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MARATHI.png" group-title="@allinone_reborn | SONYLIV", Sony Marathi
+https://allinonereborn.site/sonylive.m3u8?ch=SonyMarathi&id=2011740
+
+
+#EXTINF:-1 tvg-logo="https://c.evidon.com/pub_logos/2796-2021122219404475.png" group-title="@allinone_reborn | SONYLIV", Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="1000009252" tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="@allinone_reborn | SONYLIV" catchup="" catchup-source="" catchup-days="",Sony BBC Earth HD
-https://allinonereborn.com/sonyliv.m3u8?ch=SonyBBCEarthHD&id=2011907
-#EXTINF:-1  tvg-name="" tvg-id="1000009258" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="@allinone_reborn | SONYLIV" catchup="" catchup-source="" catchup-days="",Sony PIX HD
-https://allinonereborn.com/sonyliv.m3u8?ch=PIXHD&id=2011748
-#EXTINF:-1  tvg-name="" tvg-id="1000009253" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="@allinone_reborn | SONYLIV" catchup="" catchup-source="" catchup-days="",Sony WAH
-https://allinonereborn.com/sonyliv.m3u8?ch=SonyWah&id=2011906
-#EXTINF:-1  tvg-name="" tvg-id="1000009249" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="@allinone_reborn | SONYLIV" catchup="" catchup-source="" catchup-days="",Sony MAX
-https://allinonereborn.com/sonyliv.m3u8?ch=SonyMaxSD&id=2011745
-#EXTINF:-1  tvg-name="" tvg-id="1000009247" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="@allinone_reborn | SONYLIV" catchup="" catchup-source="" catchup-days="",Sony MAX HD
-https://allinonereborn.com/sonyliv.m3u8?ch=SonyMaxhd&id=2011670
-#EXTINF:-1  tvg-name="" tvg-id="1000044878" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="@allinone_reborn | SONYLIV" catchup="" catchup-source="" catchup-days="",Sony MAX2
-https://allinonereborn.com/sonyliv.m3u8?ch=MAX2&id=2011908
-#EXTINF:-1  tvg-name="" tvg-id="1000009280" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" group-title="@allinone_reborn | SONYLIV" catchup="" catchup-source="" catchup-days="",Sony TEN 1
-https://allinonereborn.com/sonyliv.m3u8?ch=TEN1SD&id=2011739
-#EXTINF:-1  tvg-name="" tvg-id="1000009279" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png" group-title="@allinone_reborn | SONYLIV" catchup="" catchup-source="" catchup-days="",Sony TEN 2
-https://allinonereborn.com/sonyliv.m3u8?ch=TEN2SD&id=2020590
-#EXTINF:-1  tvg-name="" tvg-id="1000009283" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_SD_Logo_CLR.png" group-title="@allinone_reborn | SONYLIV" catchup="" catchup-source="" catchup-days="",Sony TEN 3
-https://allinonereborn.com/sonyliv.m3u8?ch=TEN3SD&id=2020592
-#EXTINF:-1  tvg-name="" tvg-id="1000119187" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_SD_Logo_CLR.png" group-title="@allinone_reborn | SONYLIV" catchup="" catchup-source="" catchup-days="",Sony TEN 4
-https://allinonereborn.com/sonyliv.m3u8?ch=TEN4SD&id=2020437
-#EXTINF:-1  tvg-name="" tvg-id="1000009281" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" group-title="@allinone_reborn | SONYLIV" catchup="" catchup-source="" catchup-days="",Sony TEN 5
-https://allinonereborn.com/sonyliv.m3u8?ch=SONYSIXSD&id=2020594
-#EXTINF:-1  tvg-name="" tvg-id="1000009276" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="@allinone_reborn | SONYLIV" catchup="" catchup-source="" catchup-days="",Sony TEN 1 HD
-https://allinonereborn.com/sonyliv.m3u8?ch=TEN1HD&id=2011747
-#EXTINF:-1  tvg-name="" tvg-id="1000009277" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="@allinone_reborn | SONYLIV" catchup="" catchup-source="" catchup-days="",Sony TEN 2 HD
-https://allinonereborn.com/sonyliv.m3u8?ch=TEN2HD&id=2020434
-#EXTINF:-1  tvg-name="" tvg-id="1000009278" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="@allinone_reborn | SONYLIV" catchup="" catchup-source="" catchup-days="",Sony TEN 3 HD
-https://allinonereborn.com/sonyliv.m3u8?ch=TEN3HD&id=2020591
-#EXTINF:-1  tvg-name="" tvg-id="1000119186" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="@allinone_reborn | SONYLIV" catchup="" catchup-source="" catchup-days="",Sony TEN 4 HD
-https://allinonereborn.com/sonyliv.m3u8?ch=ten4hd&id=2020589
-#EXTINF:-1  tvg-name="" tvg-id="1000009275" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="@allinone_reborn | SONYLIV" catchup="" catchup-source="" catchup-days="",Sony TEN 5 HD
-https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_143.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="102" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/75.jpg" group-title="@allinone_reborn | STAR" catchup="" catchup-source="" catchup-days="",STAR PLUS
-https://allinonereborn.com/test/m3u.php?id=102
-#EXTINF:-1  tvg-name="" tvg-id="103" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/76.jpg" group-title="@allinone_reborn | STAR" catchup="" catchup-source="" catchup-days="",STAR PLUS.
-https://allinonereborn.com/test/m3u.php?id=103
-#EXTINF:-1  tvg-name="" tvg-id="119" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/92.jpg" group-title="@allinone_reborn | STAR" catchup="" catchup-source="" catchup-days="",STAR BHARAT
-https://allinonereborn.com/test/m3u.php?id=119
-#EXTINF:-1  tvg-name="" tvg-id="120" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/93.jpg" group-title="@allinone_reborn | STAR" catchup="" catchup-source="" catchup-days="",STAR BHARAT.
-https://allinonereborn.com/test/m3u.php?id=120
-#EXTINF:-1  tvg-name="" tvg-id="18285" tvg-logo="" group-title="@allinone_reborn | STAR" catchup="" catchup-source="" catchup-days="",STAR SPORTS 1 (B)
-https://allinonereborn.com/test/m3u.php?id=18285
-#EXTINF:-1  tvg-name="" tvg-id="6787" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/6387.png" group-title="@allinone_reborn | STAR" catchup="" catchup-source="" catchup-days="",STAR SPORTS 1 HINDI HD
-https://allinonereborn.com/test/m3u.php?id=6787
-#EXTINF:-1  tvg-name="" tvg-id="25121" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/7053.jpg" group-title="@allinone_reborn | STAR" catchup="" catchup-source="" catchup-days="",STAR SPORTS 1.
-https://allinonereborn.com/test/m3u.php?id=25121
-#EXTINF:-1  tvg-name="" tvg-id="22149" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/21989.jpg" group-title="@allinone_reborn | STAR" catchup="" catchup-source="" catchup-days="",STAR SPORTS 1 HD
-https://allinonereborn.com/test/m3u.php?id=22149
-#EXTINF:-1  tvg-name="" tvg-id="7473" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/7062.jpg" group-title="@allinone_reborn | STAR" catchup="" catchup-source="" catchup-days="",STAR SPORTS 1
-https://allinonereborn.com/test/m3u.php?id=7473
-#EXTINF:-1  tvg-name="" tvg-id="7455" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/7044.jpg" group-title="@allinone_reborn | STAR" catchup="" catchup-source="" catchup-days="",STAR SPORTS 2.
-https://allinonereborn.com/test/m3u.php?id=7455
-#EXTINF:-1  tvg-name="" tvg-id="7458" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/7047.jpg" group-title="@allinone_reborn | STAR" catchup="" catchup-source="" catchup-days="",STAR SPORTS 2
-https://allinonereborn.com/test/m3u.php?id=7458
-#EXTINF:-1  tvg-name="" tvg-id="23951" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/23803.png" group-title="@allinone_reborn | STAR" catchup="" catchup-source="" catchup-days="",STAR SPORTS TAMIL
-https://allinonereborn.com/test/m3u.php?id=23951
-#EXTINF:-1  tvg-name="" tvg-id="22145" tvg-logo="" group-title="@allinone_reborn | STAR" catchup="" catchup-source="" catchup-days="",STAR SPORTS SELECT 1
-https://allinonereborn.com/test/m3u.php?id=22145
-#EXTINF:-1  tvg-name="" tvg-id="396" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/366.jpg" group-title="@allinone_reborn | STAR" catchup="" catchup-source="" catchup-days="",STAR SPORTS SELECT 1..
-https://allinonereborn.com/test/m3u.php?id=396
-#EXTINF:-1  tvg-name="" tvg-id="22146" tvg-logo="" group-title="@allinone_reborn | STAR" catchup="" catchup-source="" catchup-days="",STAR SPORTS SELECT 2
-https://allinonereborn.com/test/m3u.php?id=22146
-#EXTINF:-1  tvg-name="" tvg-id="397" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/367.jpg" group-title="@allinone_reborn | STAR" catchup="" catchup-source="" catchup-days="",STAR SPORTS SELECT 2  .
-https://allinonereborn.com/test/m3u.php?id=397
-#EXTINF:-1  tvg-name="" tvg-id="22147" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/21987.jpg" group-title="@allinone_reborn | STAR" catchup="" catchup-source="" catchup-days="",STAR SPORTS HINDI
-https://allinonereborn.com/test/m3u.php?id=22147
-#EXTINF:-1  tvg-name="" tvg-id="22148" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/21988.jpg" group-title="@allinone_reborn | STAR" catchup="" catchup-source="" catchup-days="",STAR SPORTS HINDI .
-https://allinonereborn.com/test/m3u.php?id=22148
-#EXTINF:-1  tvg-name="" tvg-id="23560" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/23412.jpg" group-title="@allinone_reborn | STAR" catchup="" catchup-source="" catchup-days="",STAR SPORTS KANNADA
-https://allinonereborn.com/test/m3u.php?id=23560
-#EXTINF:-1  tvg-name="" tvg-id="23931" tvg-logo="" group-title="@allinone_reborn | STAR" catchup="" catchup-source="" catchup-days="",STAR SPORTS 3
-https://allinonereborn.com/test/m3u.php?id=23931
-#EXTINF:-1  tvg-name="" tvg-id="23939" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/23791.jpg" group-title="@allinone_reborn | STAR" catchup="" catchup-source="" catchup-days="",STAR SPORTS 1 (C)
-https://allinonereborn.com/test/m3u.php?id=23939
-#EXTINF:-1  tvg-name="" tvg-id="23939" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/23791.jpg" group-title="@allinone_reborn | STAR" catchup="" catchup-source="" catchup-days="",Star Maa Gold
-https://allinonereborn.com/test/m3u.php?id=4592
-#EXTINF:-1  tvg-name="" tvg-id="23940" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/23792.jpg" group-title="@allinone_reborn | STAR" catchup="" catchup-source="" catchup-days="",STAR SPORTS 1 (C2)
-https://allinonereborn.com/test/m3u.php?id=23940
-#EXTINF:-1  tvg-name="" tvg-id="24021" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/23873.jpg" group-title="@allinone_reborn | STAR" catchup="" catchup-source="" catchup-days="",STAR SPORT 1
-https://allinonereborn.com/test/m3u.php?id=24021
-#EXTINF:-1  tvg-name="" tvg-id="24022" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/23874.jpg" group-title="@allinone_reborn | STAR" catchup="" catchup-source="" catchup-days="",STAR SPORT 1 FHD
-https://allinonereborn.com/test/m3u.php?id=24022
-#EXTINF:-1  tvg-name="" tvg-id="24023" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/23875.jpg" group-title="@allinone_reborn | STAR" catchup="" catchup-source="" catchup-days="",STAR SPORTS 1 HINDI
-https://allinonereborn.com/test/m3u.php?id=24023
-#EXTINF:-1  tvg-name="" tvg-id="24137" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/23877.jpg" group-title="@allinone_reborn | STAR" catchup="" catchup-source="" catchup-days="",STAR SPORTS 1 HINDI FHD
-https://allinonereborn.com/test/m3u.php?id=24137
-#EXTINF:-1  tvg-name="" tvg-id="24024" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/23876.jpg" group-title="@allinone_reborn | STAR" catchup="" catchup-source="" catchup-days="",STAR SPORTS 1 TAMIL
-https://allinonereborn.com/test/m3u.php?id=24024
-#EXTINF:-1  tvg-name="" tvg-id="25119" tvg-logo="" group-title="@allinone_reborn | STAR" catchup="" catchup-source="" catchup-days="",STAR SPORTS 1 4K
-https://allinonereborn.com/test/m3u.php?id=25119
-#EXTINF:-1  tvg-name="" tvg-id="723" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/641.jpg" group-title="@allinone_reborn | STAR" catchup="" catchup-source="" catchup-days="",5 STAR
-https://allinonereborn.com/test/m3u.php?id=723
-#EXTINF:-1  tvg-name="" tvg-id="950" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/808.jpg" group-title="@allinone_reborn | STAR" catchup="" catchup-source="" catchup-days="",STAR VIJAY.
-https://allinonereborn.com/test/m3u.php?id=950
-#EXTINF:-1  tvg-name="" tvg-id="951" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/809.jpg" group-title="@allinone_reborn | STAR" catchup="" catchup-source="" catchup-days="",STAR VIJAY
-https://allinonereborn.com/test/m3u.php?id=951
-#EXTINF:-1  tvg-name="" tvg-id="7476" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/7065.jpg" group-title="@allinone_reborn | STAR" catchup="" catchup-source="" catchup-days="",STAR PRAVAH HD
-https://allinonereborn.com/test/m3u.php?id=7476
-#EXTINF:-1  tvg-name="" tvg-id="7110" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/6694.jpg" group-title="@allinone_reborn | STAR" catchup="" catchup-source="" catchup-days="",STAR PRAVAH
-https://allinonereborn.com/test/m3u.php?id=7110
-#EXTINF:-1  tvg-name="" tvg-id="23811" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/23663.jpg" group-title="@allinone_reborn | STAR" catchup="" catchup-source="" catchup-days="",STAR SUVARNA
-https://allinonereborn.com/test/m3u.php?id=23811
-#EXTINF:-1  tvg-name="" tvg-id="4593" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/4342.jpg" group-title="@allinone_reborn | STAR" catchup="" catchup-source="" catchup-days="",STAR MAA HD
-https://allinonereborn.com/test/m3u.php?id=4593
-#EXTINF:-1  tvg-name="" tvg-id="11952" tvg-logo="" group-title="@allinone_reborn | STAR" catchup="" catchup-source="" catchup-days="",STAR JALSHA
-https://allinonereborn.com/test/m3u.php?id=11952
-#EXTINF:-1  tvg-name="" tvg-id="14593" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/14296.jpg" group-title="@allinone_reborn | STAR" catchup="" catchup-source="" catchup-days="",STAR JALSHA.
-https://allinonereborn.com/test/m3u.php?id=14593
-#EXTINF:-1  tvg-name="" tvg-id="14594" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/14297.jpg" group-title="@allinone_reborn | STAR" catchup="" catchup-source="" catchup-days="",STAR JALSHA MOVIES.
-https://allinonereborn.com/test/m3u.php?id=14594
-#EXTINF:-1  tvg-name="" tvg-id="11955" tvg-logo="" group-title="@allinone_reborn | STAR" catchup="" catchup-source="" catchup-days="",STAR JALSHA MOVIES
-https://allinonereborn.com/test/m3u.php?id=11955
-#EXTINF:-1  tvg-name="" tvg-id="22246" tvg-logo="" group-title="@allinone_reborn | STAR" catchup="" catchup-source="" catchup-days="",PUNJAB STAR
-https://allinonereborn.com/test/m3u.php?id=22246
-#EXTINF:-1  tvg-name="" tvg-id="7096" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/6680.png" group-title="@allinone_reborn | STAR" catchup="" catchup-source="" catchup-days="",STAR MOVIES
-https://allinonereborn.com/test/m3u.php?id=7096
-#EXTINF:-1  tvg-name="" tvg-id="19895" tvg-logo="" group-title="@allinone_reborn | STAR" catchup="" catchup-source="" catchup-days="",STAR SPORTS SELECT 1.
-https://allinonereborn.com/test/m3u.php?id=19895
-#EXTINF:-1  tvg-name="" tvg-id="19899" tvg-logo="" group-title="@allinone_reborn | STAR" catchup="" catchup-source="" catchup-days="",STAR SPORTS SELECT 2.
-https://allinonereborn.com/test/m3u.php?id=19899
-#EXTINF:-1  tvg-name="" tvg-id="20371" tvg-logo="" group-title="@allinone_reborn | STAR" catchup="" catchup-source="" catchup-days="",DAY STAR
-https://allinonereborn.com/test/m3u.php?id=20371
-#EXTINF:-1  tvg-name="" tvg-id="156" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/127.jpg" group-title="@allinone_reborn | STAR" catchup="" catchup-source="" catchup-days="",STAR GOLD HD
-https://allinonereborn.com/test/m3u.php?id=156
-#EXTINF:-1  tvg-name="" tvg-id="158" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/129.jpg" group-title="@allinone_reborn | STAR" catchup="" catchup-source="" catchup-days="",STAR GOLD HD..
-https://allinonereborn.com/test/m3u.php?id=158
-#EXTINF:-1  tvg-name="" tvg-id="349" tvg-logo="" group-title="@allinone_reborn | STAR" catchup="" catchup-source="" catchup-days="",STAR MOVIES HD
-https://allinonereborn.com/test/m3u.php?id=349
-#EXTINF:-1  tvg-name="" tvg-id="353" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/324.jpg" group-title="@allinone_reborn | STAR" catchup="" catchup-source="" catchup-days="",STAR MOVIES SELECT
-https://allinonereborn.com/test/m3u.php?id=353
-#EXTINF:-1  tvg-name="" tvg-id="159" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/130.jpg" group-title="@allinone_reborn | STAR" catchup="" catchup-source="" catchup-days="",STAR GOLD SELECT HD.
-https://allinonereborn.com/test/m3u.php?id=159
-#EXTINF:-1  tvg-name="" tvg-id="7485" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/7074.png" group-title="@allinone_reborn | STAR" catchup="" catchup-source="" catchup-days="",STAR GOLD SELECT HD
-https://allinonereborn.com/test/m3u.php?id=7485
-#EXTINF:-1  tvg-name="" tvg-id="22129" tvg-logo="" group-title="@allinone_reborn | STAR" catchup="" catchup-source="" catchup-days="",STAR GOLD 2
-https://allinonereborn.com/test/m3u.php?id=22129
-#EXTINF:-1  tvg-name="" tvg-id="23850" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/23702.jpg" group-title="@allinone_reborn | STAR" catchup="" catchup-source="" catchup-days="",STAR PRAVAH MOVIES
-https://allinonereborn.com/test/m3u.php?id=23850
-#EXTINF:-1  tvg-name="" tvg-id="22126" tvg-logo="" group-title="@allinone_reborn | STAR" catchup="" catchup-source="" catchup-days="",STAR UTSAV MOVIES
-https://allinonereborn.com/test/m3u.php?id=22126
-#EXTINF:-1  tvg-name="Star Sports 1 HD" tvg-id="364" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7430/567430-h.jpg" group-title="@allinone_reborn | STAR" catchup="" catchup-source="" catchup-days="",Star Sports 1 HD
-http://legislative-fathers-demonstration-references.trycloudflare.com/jio-tv/portal.php?id=364
-#EXTINF:-1  tvg-name="Star Sports 2 HD" tvg-id="366" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7432/567432-h.jpg" group-title="@allinone_reborn | STAR" catchup="" catchup-source="" catchup-days="",Star Sports 2 HD
-http://legislative-fathers-demonstration-references.trycloudflare.com/jio-tv/portal.php?id=366
-#EXTINF:-1  tvg-name="Star Sports 1 Hindi HD" tvg-id="365" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7433/567433-h.jpg" group-title="@allinone_reborn | STAR" catchup="" catchup-source="" catchup-days="",Star Sports 1 Hindi HD
-http://legislative-fathers-demonstration-references.trycloudflare.com/jio-tv/portal.php?id=365
-#EXTINF:-1  tvg-name="Star Sports Select 1" tvg-id="361" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7435/567435-h.jpg" group-title="@allinone_reborn | STAR" catchup="" catchup-source="" catchup-days="",Star Sports Select 1
-http://legislative-fathers-demonstration-references.trycloudflare.com/jio-tv/portal.php?id=361
-#EXTINF:-1  tvg-name="Star Sports Select 2" tvg-id="362" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7437/567437-h.jpg" group-title="@allinone_reborn | STAR" catchup="" catchup-source="" catchup-days="",Star Sports Select 2
-http://legislative-fathers-demonstration-references.trycloudflare.com/jio-tv/portal.php?id=362
-#EXTINF:-1  tvg-name="Star Gold" tvg-id="8489" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7403/567403-h.jpg" group-title="@allinone_reborn | STAR" catchup="" catchup-source="" catchup-days="",Star Gold
-http://legislative-fathers-demonstration-references.trycloudflare.com/jio-tv/portal.php?id=8489
-#EXTINF:-1  tvg-name="Star Gold Romance" tvg-id="47861" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7403/567403-h.jpg" group-title="@allinone_reborn | STAR" catchup="" catchup-source="" catchup-days="",Star Gold Romance
-http://legislative-fathers-demonstration-references.trycloudflare.com/jio-tv/portal.php?id=47861
-#EXTINF:-1  tvg-name="Star Gold 2" tvg-id="247" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7403/567403-h.jpg" group-title="@allinone_reborn | STAR" catchup="" catchup-source="" catchup-days="",Star Gold 2
-http://legislative-fathers-demonstration-references.trycloudflare.com/jio-tv/portal.php?id=247
-#EXTINF:-1  tvg-name="Star Plus" tvg-id="160" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7415/567415-h.jpg" group-title="@allinone_reborn | STAR" catchup="" catchup-source="" catchup-days="",Star Plus
-http://legislative-fathers-demonstration-references.trycloudflare.com/jio-tv/portal.php?id=160
-#EXTINF:-1  tvg-name="Star Bharat" tvg-id="173" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7406/567406-h.jpg" group-title="@allinone_reborn | STAR" catchup="" catchup-source="" catchup-days="",Star Bharat
-http://legislative-fathers-demonstration-references.trycloudflare.com/jio-tv/portal.php?id=173
-#EXTINF:-1  tvg-name="Star Bharat" tvg-id="173" tvg-logo="" group-title="@allinone_reborn | STAR" catchup="" catchup-source="" catchup-days="",Star Maa Movies HD
-https://allinonereborn.com/test/m3u.php?id=4589
-#EXTINF:-1  tvg-name="Star Utsav" tvg-id="240" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7407/567407-h.jpg" group-title="@allinone_reborn | STAR" catchup="" catchup-source="" catchup-days="",Star Utsav
-http://legislative-fathers-demonstration-references.trycloudflare.com/jio-tv/portal.php?id=240
-#EXTINF:-1  tvg-name="Disney Cartoon" tvg-id="1097" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/330px-2014_Disney_Channel_logo.svg.png" group-title="@allinone_reborn | STAR" catchup="" catchup-source="" catchup-days="",Disney Cartoon
-http://legislative-fathers-demonstration-references.trycloudflare.com/jio-tv/portal.php?id=1097
-#EXTINF:-1  tvg-name="Star Jalsha HD" tvg-id="2548" tvg-logo="https://jioimages.cdn.jio.com/imagespublic/75/96/StarJalsha_1578067732054_tv.jpg" group-title="@allinone_reborn | STAR" catchup="" catchup-source="" catchup-days="",Star Jalsha HD
-http://legislative-fathers-demonstration-references.trycloudflare.com/jio-tv/portal.php?id=2548
-#EXTINF:-1  tvg-name="" tvg-id="101" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/74.jpg" group-title="@allinone_reborn | ZEE5" catchup="" catchup-source="" catchup-days="",ZEE TV HD UK
-https://allinonereborn.com/test/m3u.php?id=101
-#EXTINF:-1  tvg-name="" tvg-id="23520" tvg-logo="" group-title="@allinone_reborn | ZEE5" catchup="" catchup-source="" catchup-days="",ZEE TV UK
-https://allinonereborn.com/test/m3u.php?id=23520
-#EXTINF:-1  tvg-name="" tvg-id="152" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/123.jpg" group-title="@allinone_reborn | ZEE5" catchup="" catchup-source="" catchup-days="",ZEE CINEMA UK
-https://allinonereborn.com/test/m3u.php?id=152
-#EXTINF:-1  tvg-name="" tvg-id="99" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/72.jpg" group-title="@allinone_reborn | ZEE5" catchup="" catchup-source="" catchup-days="",ZEE TV
-https://allinonereborn.com/test/m3u.php?id=99
-#EXTINF:-1  tvg-name="" tvg-id="98" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/71.jpg" group-title="@allinone_reborn | ZEE5" catchup="" catchup-source="" catchup-days="",ZEE TV HD
-https://allinonereborn.com/test/m3u.php?id=98
-#EXTINF:-1  tvg-name="" tvg-id="22191" tvg-logo="" group-title="@allinone_reborn | ZEE5" catchup="" catchup-source="" catchup-days="",ZEE TV USA
-https://allinonereborn.com/test/m3u.php?id=22191
-#EXTINF:-1  tvg-name="" tvg-id="22192" tvg-logo="" group-title="@allinone_reborn | ZEE5" catchup="" catchup-source="" catchup-days="",ZEE TV CANADA
-https://allinonereborn.com/test/m3u.php?id=22192
-#EXTINF:-1  tvg-name="" tvg-id="133" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/104.jpg" group-title="@allinone_reborn | ZEE5" catchup="" catchup-source="" catchup-days="",ZEE ANMOL
-https://allinonereborn.com/test/m3u.php?id=133
-#EXTINF:-1  tvg-name="" tvg-id="7122" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/6708.png" group-title="@allinone_reborn | ZEE5" catchup="" catchup-source="" catchup-days="",ZEE CAFE
-https://allinonereborn.com/test/m3u.php?id=7122
-#EXTINF:-1  tvg-name="" tvg-id="23570" tvg-logo="" group-title="@allinone_reborn | ZEE5" catchup="" catchup-source="" catchup-days="",ZEE ZEST
-https://allinonereborn.com/test/m3u.php?id=23570
-#EXTINF:-1  tvg-name="" tvg-id="320" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/291.jpg" group-title="@allinone_reborn | ZEE5" catchup="" catchup-source="" catchup-days="",ZEE NEWS
-https://allinonereborn.com/test/m3u.php?id=320
-#EXTINF:-1  tvg-name="" tvg-id="321" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/292.jpg" group-title="@allinone_reborn | ZEE5" catchup="" catchup-source="" catchup-days="",ZEE NEWS.
-https://allinonereborn.com/test/m3u.php?id=321
-#EXTINF:-1  tvg-name="" tvg-id="14802" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/14503.jpg" group-title="@allinone_reborn | ZEE5" catchup="" catchup-source="" catchup-days="",ZEE BUSSINESS
-https://allinonereborn.com/test/m3u.php?id=14802
-#EXTINF:-1  tvg-name="" tvg-id="322" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/293.jpg" group-title="@allinone_reborn | ZEE5" catchup="" catchup-source="" catchup-days="",ZEE BUSSINESS.
-https://allinonereborn.com/test/m3u.php?id=322
-#EXTINF:-1  tvg-name="" tvg-id="338" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/309.jpg" group-title="@allinone_reborn | ZEE5" catchup="" catchup-source="" catchup-days="",ZEE HINDUSTAAN
-https://allinonereborn.com/test/m3u.php?id=338
-#EXTINF:-1  tvg-name="" tvg-id="25198" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/349.jpg" group-title="@allinone_reborn | ZEE5" catchup="" catchup-source="" catchup-days="",AL JAZEERA NEWS
-https://allinonereborn.com/test/m3u.php?id=25198
-#EXTINF:-1  tvg-name="" tvg-id="14595" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/14298.jpg" group-title="@allinone_reborn | ZEE5" catchup="" catchup-source="" catchup-days="",ZEE KERALAM
-https://allinonereborn.com/test/m3u.php?id=14595
-#EXTINF:-1  tvg-name="" tvg-id="952" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/810.jpg" group-title="@allinone_reborn | ZEE5" catchup="" catchup-source="" catchup-days="",ZEE  HD
-https://allinonereborn.com/test/m3u.php?id=952
-#EXTINF:-1  tvg-name="" tvg-id="953" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/811.jpg" group-title="@allinone_reborn | ZEE5" catchup="" catchup-source="" catchup-days="",ZEE
-https://allinonereborn.com/test/m3u.php?id=953
-#EXTINF:-1  tvg-name="" tvg-id="7108" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/6692.jpg" group-title="@allinone_reborn | ZEE5" catchup="" catchup-source="" catchup-days="",ZEE
-https://allinonereborn.com/test/m3u.php?id=7108
-#EXTINF:-1  tvg-name="" tvg-id="11538" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/11241.jpg" group-title="@allinone_reborn | ZEE5" catchup="" catchup-source="" catchup-days="",ZEE .
-https://allinonereborn.com/test/m3u.php?id=11538
-#EXTINF:-1  tvg-name="" tvg-id="7112" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/6696.jpg" group-title="@allinone_reborn | ZEE5" catchup="" catchup-source="" catchup-days="",ZEE TALKIES
-https://allinonereborn.com/test/m3u.php?id=7112
-#EXTINF:-1  tvg-name="" tvg-id="7512" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/7101.jpg" group-title="@allinone_reborn | ZEE5" catchup="" catchup-source="" catchup-days="",ZEE YUVA
-https://allinonereborn.com/test/m3u.php?id=7512
-#EXTINF:-1  tvg-name="" tvg-id="7111" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/6695.jpg" group-title="@allinone_reborn | ZEE5" catchup="" catchup-source="" catchup-days="",ZEE  TAAS
-https://allinonereborn.com/test/m3u.php?id=7111
-#EXTINF:-1  tvg-name="" tvg-id="982" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/840.jpg" group-title="@allinone_reborn | ZEE5" catchup="" catchup-source="" catchup-days="",ZEE KANNADA
-https://allinonereborn.com/test/m3u.php?id=982
-#EXTINF:-1  tvg-name="" tvg-id="23444" tvg-logo="" group-title="@allinone_reborn | ZEE5" catchup="" catchup-source="" catchup-days="",ZEE PICCHAR
-https://allinonereborn.com/test/m3u.php?id=23444
-#EXTINF:-1  tvg-name="" tvg-id="4594" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/4343.jpg" group-title="@allinone_reborn | ZEE5" catchup="" catchup-source="" catchup-days="",ZEE TELUGU
-https://allinonereborn.com/test/m3u.php?id=4594
-#EXTINF:-1  tvg-name="" tvg-id="4600" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/4349.jpg" group-title="@allinone_reborn | ZEE5" catchup="" catchup-source="" catchup-days="",ZEE TELUGU HD
-https://allinonereborn.com/test/m3u.php?id=4600
-#EXTINF:-1  tvg-name="" tvg-id="4598" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/4347.jpg" group-title="@allinone_reborn | ZEE5" catchup="" catchup-source="" catchup-days="",ZEE CINEMA TEL
-https://allinonereborn.com/test/m3u.php?id=4598
-#EXTINF:-1  tvg-name="" tvg-id="11958" tvg-logo="" group-title="@allinone_reborn | ZEE5" catchup="" catchup-source="" catchup-days="",ZEE BANGLA.
-https://allinonereborn.com/test/m3u.php?id=11958
-#EXTINF:-1  tvg-name="" tvg-id="11934" tvg-logo="" group-title="@allinone_reborn | ZEE5" catchup="" catchup-source="" catchup-days="",ZEE BANGLA
-https://allinonereborn.com/test/m3u.php?id=11934
-#EXTINF:-1  tvg-name="" tvg-id="11871" tvg-logo="" group-title="@allinone_reborn | ZEE5" catchup="" catchup-source="" catchup-days="",ZEE CINEMA BAN
-https://allinonereborn.com/test/m3u.php?id=11871
-#EXTINF:-1  tvg-name="" tvg-id="18930" tvg-logo="" group-title="@allinone_reborn | ZEE5" catchup="" catchup-source="" catchup-days="",ZEE 24 GHANTA
-https://allinonereborn.com/test/m3u.php?id=18930
-#EXTINF:-1  tvg-name="" tvg-id="7743" tvg-logo="" group-title="@allinone_reborn | ZEE5" catchup="" catchup-source="" catchup-days="",ZEE HAREYNA
-https://allinonereborn.com/test/m3u.php?id=7743
-#EXTINF:-1  tvg-name="" tvg-id="7740" tvg-logo="" group-title="@allinone_reborn | ZEE5" catchup="" catchup-source="" catchup-days="",ZEE PUNJABI
-https://allinonereborn.com/test/m3u.php?id=7740
-#EXTINF:-1  tvg-name="" tvg-id="22225" tvg-logo="" group-title="@allinone_reborn | ZEE5" catchup="" catchup-source="" catchup-days="",ZEE PUNJABI.
-https://allinonereborn.com/test/m3u.php?id=22225
-#EXTINF:-1  tvg-name="" tvg-id="150" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/121.jpg" group-title="@allinone_reborn | ZEE5" catchup="" catchup-source="" catchup-days="",ZEE CINEMA HD
-https://allinonereborn.com/test/m3u.php?id=150
-#EXTINF:-1  tvg-name="" tvg-id="151" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/122.jpg" group-title="@allinone_reborn | ZEE5" catchup="" catchup-source="" catchup-days="",ZEE CINEMA HD..
-https://allinonereborn.com/test/m3u.php?id=151
-#EXTINF:-1  tvg-name="" tvg-id="154" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/125.jpg" group-title="@allinone_reborn | ZEE5" catchup="" catchup-source="" catchup-days="",ZEE ACTION
-https://allinonereborn.com/test/m3u.php?id=154
-#EXTINF:-1  tvg-name="" tvg-id="184" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/155.jpg" group-title="@allinone_reborn | ZEE5" catchup="" catchup-source="" catchup-days="",ZEE CLASSIC
-https://allinonereborn.com/test/m3u.php?id=184
-#EXTINF:-1  tvg-name="" tvg-id="22128" tvg-logo="" group-title="@allinone_reborn | ZEE5" catchup="" catchup-source="" catchup-days="",ZEE BOLLYWOOD
-https://allinonereborn.com/test/m3u.php?id=22128
-#EXTINF:-1  tvg-name="" tvg-id="164" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/135.jpg" group-title="@allinone_reborn | ZEE5" catchup="" catchup-source="" catchup-days="",ZEE ANMOL CINEMA
-https://allinonereborn.com/test/m3u.php?id=164
+
+
+#EXTINF:-1 group-logo="https://i.ibb.co/q9b5TMJ/fallback-sonyliv-logo-1.png" tvg-id="1000009252" tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="@allinone_reborn | SONYLIV", Sony BBC Earth HD
+https://allinonereborn.site/sonylive.m3u8?ch=SonyBBCEarthHD&id=2011907
+
+
+#EXTINF:-1 group-logo="https://i.ibb.co/q9b5TMJ/fallback-sonyliv-logo-1.png" tvg-id="1000009258" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="@allinone_reborn | SONYLIV", Sony PIX HD
+https://allinonereborn.site/sonylive.m3u8?ch=PIXHD&id=2011748
+
+
+#EXTINF:-1 group-logo="https://i.ibb.co/q9b5TMJ/fallback-sonyliv-logo-1.png" tvg-id="1000009253" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="@allinone_reborn | SONYLIV", Sony WAH
+https://allinonereborn.site/sonylive.m3u8?ch=SonyWah&id=2011906
+
+
+
+#EXTINF:-1 group-logo="https://i.ibb.co/q9b5TMJ/fallback-sonyliv-logo-1.png" tvg-id="1000009249" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="@allinone_reborn | SONYLIV", Sony MAX
+https://allinonereborn.site/sonylive.m3u8?ch=SonyMaxSD&id=2011745
+
+
+
+#EXTINF:-1 group-logo="https://i.ibb.co/q9b5TMJ/fallback-sonyliv-logo-1.png" tvg-id="1000009247" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="@allinone_reborn | SONYLIV", Sony MAX HD
+https://allinonereborn.site/sonylive.m3u8?ch=SonyMaxhd&id=2011670
+
+
+#EXTINF:-1 group-logo="https://i.ibb.co/q9b5TMJ/fallback-sonyliv-logo-1.png" tvg-id="1000044878" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="@allinone_reborn | SONYLIV", Sony MAX2
+https://allinonereborn.site/sonylive.m3u8?ch=MAX2&id=2011908
+
+
+#EXTINF:-1 group-logo="https://i.ibb.co/q9b5TMJ/fallback-sonyliv-logo-1.png" tvg-id="1000009280" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" group-title="@allinone_reborn | SONYLIV", Sony TEN 1
+https://allinonereborn.site/sonylive.m3u8?ch=TEN1SD&id=2011739
+
+
+#EXTINF:-1 group-logo="https://i.ibb.co/q9b5TMJ/fallback-sonyliv-logo-1.png" tvg-id="1000009279" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png" group-title="@allinone_reborn | SONYLIV", Sony TEN 2
+https://allinonereborn.site/sonylive.m3u8?ch=TEN2SD&id=2020590
+
+
+#EXTINF:-1 group-logo="https://i.ibb.co/q9b5TMJ/fallback-sonyliv-logo-1.png" tvg-id="1000009283" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_SD_Logo_CLR.png" group-title="@allinone_reborn | SONYLIV", Sony TEN 3
+https://allinonereborn.site/sonylive.m3u8?ch=TEN3SD&id=2020592
+
+
+#EXTINF:-1 group-logo="https://i.ibb.co/q9b5TMJ/fallback-sonyliv-logo-1.png" tvg-id="1000119187" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_SD_Logo_CLR.png" group-title="@allinone_reborn | SONYLIV", Sony TEN 4
+https://allinonereborn.site/sonylive.m3u8?ch=TEN4SD&id=2020437
+
+
+#EXTINF:-1 group-logo="https://i.ibb.co/q9b5TMJ/fallback-sonyliv-logo-1.png" tvg-id="1000009281" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" group-title="@allinone_reborn | SONYLIV", Sony TEN 5
+https://allinonereborn.site/sonylive.m3u8?ch=SONYSIXSD&id=2020594
+
+
+#EXTINF:-1 group-logo="https://i.ibb.co/q9b5TMJ/fallback-sonyliv-logo-1.png" tvg-id="1000009276" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="@allinone_reborn | SONYLIV", Sony TEN 1 HD
+https://allinonereborn.site/sonylive.m3u8?ch=TEN1HD&id=2011747
+
+
+#EXTINF:-1 group-logo="https://i.ibb.co/q9b5TMJ/fallback-sonyliv-logo-1.png" tvg-id="1000009277" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="@allinone_reborn | SONYLIV", Sony TEN 2 HD
+https://allinonereborn.site/sonylive.m3u8?ch=TEN2HD&id=2020434
+
+
+#EXTINF:-1 group-logo="https://i.ibb.co/q9b5TMJ/fallback-sonyliv-logo-1.png" tvg-id="1000009278" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="@allinone_reborn | SONYLIV", Sony TEN 3 HD
+https://allinonereborn.site/sonylive.m3u8?ch=TEN3HD&id=2020591
+
+
+#EXTINF:-1 group-logo="https://i.ibb.co/q9b5TMJ/fallback-sonyliv-logo-1.png" tvg-id="1000119186" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="@allinone_reborn | SONYLIV", Sony TEN 4 HD
+https://allinonereborn.site/sonylive.m3u8?ch=ten4hd&id=2020589
+
+
+#EXTINF:-1 group-logo="https://i.ibb.co/q9b5TMJ/fallback-sonyliv-logo-1.png" tvg-id="1000009275" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="@allinone_reborn | SONYLIV", Sony TEN 5 HD
+https://allinonereborn.site/sonylive.m3u8?ch=SONYSIXHD&id=2020593
+
+
+#EXTINF:-1 group-logo="https://i.ibb.co/fX5Nz8k/download.png" tvg-id="102" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/75.jpg" group-title="@allinone_reborn | STAR",STAR PLUS
+https://allinonereborn.site/test/m3u.php?id=102
+
+#EXTINF:-1 group-logo="https://i.ibb.co/fX5Nz8k/download.png" tvg-id="103" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/76.jpg" group-title="@allinone_reborn | STAR",STAR PLUS.
+https://allinonereborn.site/test/m3u.php?id=103
+
+#EXTINF:-1 group-logo="https://i.ibb.co/fX5Nz8k/download.png" tvg-id="119" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/92.jpg" group-title="@allinone_reborn | STAR",STAR BHARAT
+https://allinonereborn.site/test/m3u.php?id=119
+
+#EXTINF:-1 group-logo="https://i.ibb.co/fX5Nz8k/download.png" tvg-id="120" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/93.jpg" group-title="@allinone_reborn | STAR",STAR BHARAT.
+https://allinonereborn.site/test/m3u.php?id=120
+
+#EXTINF:-1 group-logo="https://i.ibb.co/fX5Nz8k/download.png" tvg-id="18285" tvg-logo="" group-title="@allinone_reborn | STAR",STAR SPORTS 1 (B)
+https://allinonereborn.site/test/m3u.php?id=18285
+
+#EXTINF:-1 group-logo="https://i.ibb.co/fX5Nz8k/download.png" tvg-id="6787" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/6387.png" group-title="@allinone_reborn | STAR",STAR SPORTS 1 HINDI HD
+https://allinonereborn.site/test/m3u.php?id=6787
+
+#EXTINF:-1 group-logo="https://i.ibb.co/fX5Nz8k/download.png" tvg-id="25121" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/7053.jpg" group-title="@allinone_reborn | STAR",STAR SPORTS 1.
+https://allinonereborn.site/test/m3u.php?id=25121
+
+#EXTINF:-1 group-logo="https://i.ibb.co/fX5Nz8k/download.png" tvg-id="22149" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/21989.jpg" group-title="@allinone_reborn | STAR",STAR SPORTS 1 HD
+https://allinonereborn.site/test/m3u.php?id=22149
+
+#EXTINF:-1 group-logo="https://i.ibb.co/fX5Nz8k/download.png" tvg-id="7473" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/7062.jpg" group-title="@allinone_reborn | STAR",STAR SPORTS 1
+https://allinonereborn.site/test/m3u.php?id=7473
+
+#EXTINF:-1 group-logo="https://i.ibb.co/fX5Nz8k/download.png" tvg-id="7455" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/7044.jpg" group-title="@allinone_reborn | STAR",STAR SPORTS 2.
+https://allinonereborn.site/test/m3u.php?id=7455
+
+#EXTINF:-1 group-logo="https://i.ibb.co/fX5Nz8k/download.png" tvg-id="7458" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/7047.jpg" group-title="@allinone_reborn | STAR",STAR SPORTS 2
+https://allinonereborn.site/test/m3u.php?id=7458
+
+#EXTINF:-1 group-logo="https://i.ibb.co/fX5Nz8k/download.png" tvg-id="23951" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/23803.png" group-title="@allinone_reborn | STAR",STAR SPORTS TAMIL
+https://allinonereborn.site/test/m3u.php?id=23951
+
+#EXTINF:-1 group-logo="https://i.ibb.co/fX5Nz8k/download.png" tvg-id="22145" tvg-logo="" group-title="@allinone_reborn | STAR",STAR SPORTS SELECT 1
+https://allinonereborn.site/test/m3u.php?id=22145
+
+#EXTINF:-1 group-logo="https://i.ibb.co/fX5Nz8k/download.png" tvg-id="396" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/366.jpg" group-title="@allinone_reborn | STAR",STAR SPORTS SELECT 1..
+https://allinonereborn.site/test/m3u.php?id=396
+
+#EXTINF:-1 group-logo="https://i.ibb.co/fX5Nz8k/download.png" tvg-id="22146" tvg-logo="" group-title="@allinone_reborn | STAR",STAR SPORTS SELECT 2
+https://allinonereborn.site/test/m3u.php?id=22146
+
+#EXTINF:-1 group-logo="https://i.ibb.co/fX5Nz8k/download.png" tvg-id="397" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/367.jpg" group-title="@allinone_reborn | STAR",STAR SPORTS SELECT 2  .
+https://allinonereborn.site/test/m3u.php?id=397
+
+#EXTINF:-1 group-logo="https://i.ibb.co/fX5Nz8k/download.png" tvg-id="22147" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/21987.jpg" group-title="@allinone_reborn | STAR",STAR SPORTS HINDI
+https://allinonereborn.site/test/m3u.php?id=22147
+
+#EXTINF:-1 group-logo="https://i.ibb.co/fX5Nz8k/download.png" tvg-id="22148" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/21988.jpg" group-title="@allinone_reborn | STAR",STAR SPORTS HINDI .
+https://allinonereborn.site/test/m3u.php?id=22148
+
+#EXTINF:-1 group-logo="https://i.ibb.co/fX5Nz8k/download.png" tvg-id="23560" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/23412.jpg" group-title="@allinone_reborn | STAR",STAR SPORTS KANNADA
+https://allinonereborn.site/test/m3u.php?id=23560
+
+#EXTINF:-1 group-logo="https://i.ibb.co/fX5Nz8k/download.png" tvg-id="23931" tvg-logo="" group-title="@allinone_reborn | STAR",STAR SPORTS 3
+https://allinonereborn.site/test/m3u.php?id=23931
+
+#EXTINF:-1 group-logo="https://i.ibb.co/fX5Nz8k/download.png" tvg-id="23939" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/23791.jpg" group-title="@allinone_reborn | STAR",STAR SPORTS 1 (C)
+https://allinonereborn.site/test/m3u.php?id=23939
+
+#EXTINF:-1 group-logo="https://i.ibb.co/fX5Nz8k/download.png" tvg-id="23939" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/23791.jpg" group-title="@allinone_reborn | STAR",Star Maa Gold
+https://allinonereborn.site/test/m3u.php?id=4592
+
+#EXTINF:-1 group-logo="https://i.ibb.co/fX5Nz8k/download.png" tvg-id="23940" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/23792.jpg" group-title="@allinone_reborn | STAR",STAR SPORTS 1 (C2)
+https://allinonereborn.site/test/m3u.php?id=23940
+
+#EXTINF:-1 group-logo="https://i.ibb.co/fX5Nz8k/download.png" tvg-id="24021" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/23873.jpg" group-title="@allinone_reborn | STAR",STAR SPORT 1
+https://allinonereborn.site/test/m3u.php?id=24021
+
+#EXTINF:-1 group-logo="https://i.ibb.co/fX5Nz8k/download.png" tvg-id="24022" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/23874.jpg" group-title="@allinone_reborn | STAR",STAR SPORT 1 FHD
+https://allinonereborn.site/test/m3u.php?id=24022
+
+#EXTINF:-1 group-logo="https://i.ibb.co/fX5Nz8k/download.png" tvg-id="24023" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/23875.jpg" group-title="@allinone_reborn | STAR",STAR SPORTS 1 HINDI
+https://allinonereborn.site/test/m3u.php?id=24023
+
+#EXTINF:-1 group-logo="https://i.ibb.co/fX5Nz8k/download.png" tvg-id="24137" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/23877.jpg" group-title="@allinone_reborn | STAR",STAR SPORTS 1 HINDI FHD
+https://allinonereborn.site/test/m3u.php?id=24137
+
+#EXTINF:-1 group-logo="https://i.ibb.co/fX5Nz8k/download.png" tvg-id="24024" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/23876.jpg" group-title="@allinone_reborn | STAR",STAR SPORTS 1 TAMIL
+https://allinonereborn.site/test/m3u.php?id=24024
+
+#EXTINF:-1 group-logo="https://i.ibb.co/fX5Nz8k/download.png" tvg-id="25119" tvg-logo="" group-title="@allinone_reborn | STAR",STAR SPORTS 1 4K
+https://allinonereborn.site/test/m3u.php?id=25119
+
+#EXTINF:-1 group-logo="https://i.ibb.co/fX5Nz8k/download.png" tvg-id="723" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/641.jpg" group-title="@allinone_reborn | STAR",5 STAR
+https://allinonereborn.site/test/m3u.php?id=723
+
+#EXTINF:-1 group-logo="https://i.ibb.co/fX5Nz8k/download.png" tvg-id="950" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/808.jpg" group-title="@allinone_reborn | STAR",STAR VIJAY.
+https://allinonereborn.site/test/m3u.php?id=950
+
+#EXTINF:-1 group-logo="https://i.ibb.co/fX5Nz8k/download.png" tvg-id="951" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/809.jpg" group-title="@allinone_reborn | STAR",STAR VIJAY
+https://allinonereborn.site/test/m3u.php?id=951
+
+#EXTINF:-1 group-logo="https://i.ibb.co/fX5Nz8k/download.png" tvg-id="7476" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/7065.jpg" group-title="@allinone_reborn | STAR",STAR PRAVAH HD
+https://allinonereborn.site/test/m3u.php?id=7476
+
+#EXTINF:-1 group-logo="https://i.ibb.co/fX5Nz8k/download.png" tvg-id="7110" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/6694.jpg" group-title="@allinone_reborn | STAR",STAR PRAVAH
+https://allinonereborn.site/test/m3u.php?id=7110
+
+#EXTINF:-1 group-logo="https://i.ibb.co/fX5Nz8k/download.png" tvg-id="23811" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/23663.jpg" group-title="@allinone_reborn | STAR",STAR SUVARNA
+https://allinonereborn.site/test/m3u.php?id=23811
+
+#EXTINF:-1 group-logo="https://i.ibb.co/fX5Nz8k/download.png" tvg-id="4593" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/4342.jpg" group-title="@allinone_reborn | STAR",STAR MAA HD
+https://allinonereborn.site/test/m3u.php?id=4593
+
+#EXTINF:-1 group-logo="https://i.ibb.co/fX5Nz8k/download.png" tvg-id="11952" tvg-logo="" group-title="@allinone_reborn | STAR",STAR JALSHA
+https://allinonereborn.site/test/m3u.php?id=11952
+
+#EXTINF:-1 group-logo="https://i.ibb.co/fX5Nz8k/download.png" tvg-id="14593" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/14296.jpg" group-title="@allinone_reborn | STAR",STAR JALSHA.
+https://allinonereborn.site/test/m3u.php?id=14593
+
+#EXTINF:-1 group-logo="https://i.ibb.co/fX5Nz8k/download.png" tvg-id="14594" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/14297.jpg" group-title="@allinone_reborn | STAR",STAR JALSHA MOVIES.
+https://allinonereborn.site/test/m3u.php?id=14594
+
+#EXTINF:-1 group-logo="https://i.ibb.co/fX5Nz8k/download.png" tvg-id="11955" tvg-logo="" group-title="@allinone_reborn | STAR",STAR JALSHA MOVIES
+https://allinonereborn.site/test/m3u.php?id=11955
+
+#EXTINF:-1 group-logo="https://i.ibb.co/fX5Nz8k/download.png" tvg-id="22246" tvg-logo="" group-title="@allinone_reborn | STAR"PUNJABI",PUNJAB STAR
+https://allinonereborn.site/test/m3u.php?id=22246
+
+#EXTINF:-1 group-logo="https://i.ibb.co/fX5Nz8k/download.png" tvg-id="7096" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/6680.png" group-title="@allinone_reborn | STAR",STAR MOVIES
+https://allinonereborn.site/test/m3u.php?id=7096
+
+#EXTINF:-1 group-logo="https://i.ibb.co/fX5Nz8k/download.png" tvg-id="19895" tvg-logo="" group-title="@allinone_reborn | STAR",STAR SPORTS SELECT 1.
+https://allinonereborn.site/test/m3u.php?id=19895
+
+#EXTINF:-1 group-logo="https://i.ibb.co/fX5Nz8k/download.png" tvg-id="19899" tvg-logo="" group-title="@allinone_reborn | STAR",STAR SPORTS SELECT 2.
+https://allinonereborn.site/test/m3u.php?id=19899
+
+
+#EXTINF:-1 group-logo="https://i.ibb.co/fX5Nz8k/download.png" tvg-id="20371" tvg-logo="" group-title="@allinone_reborn | STAR"USA",DAY STAR
+https://allinonereborn.site/test/m3u.php?id=20371
+
+#EXTINF:-1 group-logo="https://i.ibb.co/fX5Nz8k/download.png" tvg-id="156" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/127.jpg" group-title="@allinone_reborn | STAR",STAR GOLD HD
+https://allinonereborn.site/test/m3u.php?id=156
+
+#EXTINF:-1 group-logo="https://i.ibb.co/fX5Nz8k/download.png" tvg-id="158" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/129.jpg" group-title="@allinone_reborn | STAR",STAR GOLD HD..
+https://allinonereborn.site/test/m3u.php?id=158
+
+#EXTINF:-1 group-logo="https://i.ibb.co/fX5Nz8k/download.png" tvg-id="349" tvg-logo="" group-title="@allinone_reborn | STAR",STAR MOVIES HD
+https://allinonereborn.site/test/m3u.php?id=349
+
+#EXTINF:-1 group-logo="https://i.ibb.co/fX5Nz8k/download.png" tvg-id="353" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/324.jpg" group-title="@allinone_reborn | STAR",STAR MOVIES SELECT
+https://allinonereborn.site/test/m3u.php?id=353
+
+#EXTINF:-1 group-logo="https://i.ibb.co/fX5Nz8k/download.png" tvg-id="159" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/130.jpg" group-title="@allinone_reborn | STAR",STAR GOLD SELECT HD.
+https://allinonereborn.site/test/m3u.php?id=159
+
+#EXTINF:-1 group-logo="https://i.ibb.co/fX5Nz8k/download.png" tvg-id="7485" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/7074.png" group-title="@allinone_reborn | STAR",STAR GOLD SELECT HD
+https://allinonereborn.site/test/m3u.php?id=7485
+
+#EXTINF:-1 group-logo="https://i.ibb.co/fX5Nz8k/download.png" tvg-id="22129" tvg-logo="" group-title="@allinone_reborn | STAR",STAR GOLD 2
+https://allinonereborn.site/test/m3u.php?id=22129
+
+#EXTINF:-1 group-logo="https://i.ibb.co/fX5Nz8k/download.png" tvg-id="23850" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/23702.jpg" group-title="@allinone_reborn | STAR",STAR PRAVAH MOVIES
+https://allinonereborn.site/test/m3u.php?id=23850
+
+#EXTINF:-1 group-logo="https://i.ibb.co/fX5Nz8k/download.png" tvg-id="22126" tvg-logo="" group-title="@allinone_reborn | STAR",STAR UTSAV MOVIES
+https://allinonereborn.site/test/m3u.php?id=22126
+
+#EXTINF:-1 group-logo="https://i.ibb.co/fX5Nz8k/download.png" tvg-id="364" tvg-name="Star Sports 1 HD" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7430/567430-h.jpg" group-title="@allinone_reborn | STAR",Star Sports 1 HD
+https://attribute-lung-choir-harbor.trycloudflare.com/jio-tv/portal.php?id=364
+#EXTINF:-1 group-logo="https://i.ibb.co/fX5Nz8k/download.png" tvg-id="366" tvg-name="Star Sports 2 HD" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7432/567432-h.jpg" group-title="@allinone_reborn | STAR",Star Sports 2 HD
+https://attribute-lung-choir-harbor.trycloudflare.com/jio-tv/portal.php?id=366
+#EXTINF:-1 group-logo="https://i.ibb.co/fX5Nz8k/download.png" tvg-id="365" tvg-name="Star Sports 1 Hindi HD" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7433/567433-h.jpg" group-title="@allinone_reborn | STAR",Star Sports 1 Hindi HD
+https://attribute-lung-choir-harbor.trycloudflare.com/jio-tv/portal.php?id=365
+#EXTINF:-1 group-logo="https://i.ibb.co/fX5Nz8k/download.png" tvg-id="361" tvg-name="Star Sports Select 1" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7435/567435-h.jpg" group-title="@allinone_reborn | STAR",Star Sports Select 1
+https://attribute-lung-choir-harbor.trycloudflare.com/jio-tv/portal.php?id=361
+#EXTINF:-1 group-logo="https://i.ibb.co/fX5Nz8k/download.png" tvg-id="362" tvg-name="Star Sports Select 2" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7437/567437-h.jpg" group-title="@allinone_reborn | STAR",Star Sports Select 2
+https://attribute-lung-choir-harbor.trycloudflare.com/jio-tv/portal.php?id=362
+#EXTINF:-1 group-logo="https://i.ibb.co/fX5Nz8k/download.png" tvg-id="8489" tvg-name="Star Gold" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7403/567403-h.jpg" group-title="@allinone_reborn | STAR",Star Gold
+https://attribute-lung-choir-harbor.trycloudflare.com/jio-tv/portal.php?id=8489
+#EXTINF:-1 group-logo="https://i.ibb.co/fX5Nz8k/download.png" tvg-id="47861" tvg-name="Star Gold Romance" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7403/567403-h.jpg" group-title="@allinone_reborn | STAR",Star Gold Romance
+https://attribute-lung-choir-harbor.trycloudflare.com/jio-tv/portal.php?id=47861
+#EXTINF:-1 group-logo="https://i.ibb.co/fX5Nz8k/download.png" tvg-id="247" tvg-name="Star Gold 2" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7403/567403-h.jpg" group-title="@allinone_reborn | STAR",Star Gold 2
+https://attribute-lung-choir-harbor.trycloudflare.com/jio-tv/portal.php?id=247
+#EXTINF:-1 group-logo="https://i.ibb.co/fX5Nz8k/download.png" tvg-id="160" tvg-name="Star Plus" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7415/567415-h.jpg" group-title="@allinone_reborn | STAR",Star Plus
+https://attribute-lung-choir-harbor.trycloudflare.com/jio-tv/portal.php?id=160
+#EXTINF:-1 group-logo="https://i.ibb.co/fX5Nz8k/download.png" tvg-id="173" tvg-name="Star Bharat" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7406/567406-h.jpg" group-title="@allinone_reborn | STAR",Star Bharat
+https://attribute-lung-choir-harbor.trycloudflare.com/jio-tv/portal.php?id=173
+#EXTINF:-1 group-logo="https://i.ibb.co/fX5Nz8k/download.png" tvg-id="173" tvg-name="Star Bharat" tvg-logo="" group-title="@allinone_reborn | STAR",Star Maa Movies HD
+https://allinonereborn.site/test/m3u.php?id=4589
+#EXTINF:-1 group-logo="https://i.ibb.co/fX5Nz8k/download.png" tvg-id="240" tvg-name="Star Utsav" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7407/567407-h.jpg" group-title="@allinone_reborn | STAR",Star Utsav
+https://attribute-lung-choir-harbor.trycloudflare.com/jio-tv/portal.php?id=240
+#EXTINF:-1 group-logo="https://i.ibb.co/fX5Nz8k/download.png" tvg-id="1097" tvg-name="Disney Cartoon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/330px-2014_Disney_Channel_logo.svg.png" group-title="@allinone_reborn | STAR",Disney Cartoon
+https://attribute-lung-choir-harbor.trycloudflare.com/jio-tv/portal.php?id=1097
+#EXTINF:-1 group-logo="https://i.ibb.co/fX5Nz8k/download.png" tvg-id="2548" tvg-name="Star Jalsha HD" tvg-logo="https://jioimages.cdn.jio.com/imagespublic/75/96/StarJalsha_1578067732054_tv.jpg" group-title="@allinone_reborn | STAR",Star Jalsha HD
+https://attribute-lung-choir-harbor.trycloudflare.com/jio-tv/portal.php?id=2548
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="101" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/74.jpg" group-title="@allinone_reborn | ZEE5",ZEE TV HD UK
+https://allinonereborn.site/test/m3u.php?id=101
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="23520" tvg-logo="" group-title="@allinone_reborn | ZEE5",ZEE TV UK
+https://allinonereborn.site/test/m3u.php?id=23520
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="152" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/123.jpg" group-title="@allinone_reborn | ZEE5",ZEE CINEMA UK
+https://allinonereborn.site/test/m3u.php?id=152
+
+
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="99" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/72.jpg" group-title="@allinone_reborn | ZEE5",ZEE TV
+https://allinonereborn.site/test/m3u.php?id=99
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="98" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/71.jpg" group-title="@allinone_reborn | ZEE5",ZEE TV HD
+https://allinonereborn.site/test/m3u.php?id=98
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="22191" tvg-logo="" group-title="@allinone_reborn | ZEE5",ZEE TV USA
+https://allinonereborn.site/test/m3u.php?id=22191
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="22192" tvg-logo="" group-title="@allinone_reborn | ZEE5",ZEE TV CANADA
+https://allinonereborn.site/test/m3u.php?id=22192
+
+
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="133" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/104.jpg" group-title="@allinone_reborn | ZEE5",ZEE ANMOL
+https://allinonereborn.site/test/m3u.php?id=133
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="7122" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/6708.png" group-title="@allinone_reborn | ZEE5",ZEE CAFE
+https://allinonereborn.site/test/m3u.php?id=7122
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="23570" tvg-logo="" group-title="@allinone_reborn | ZEE5",ZEE ZEST
+https://allinonereborn.site/test/m3u.php?id=23570
+
+
+
+
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="320" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/291.jpg" group-title="@allinone_reborn | ZEE5",ZEE NEWS
+https://allinonereborn.site/test/m3u.php?id=320
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="321" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/292.jpg" group-title="@allinone_reborn | ZEE5",ZEE NEWS.
+https://allinonereborn.site/test/m3u.php?id=321
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="14802" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/14503.jpg" group-title="@allinone_reborn | ZEE5",ZEE BUSSINESS
+https://allinonereborn.site/test/m3u.php?id=14802
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="322" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/293.jpg" group-title="@allinone_reborn | ZEE5",ZEE BUSSINESS.
+https://allinonereborn.site/test/m3u.php?id=322
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="338" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/309.jpg" group-title="@allinone_reborn | ZEE5",ZEE HINDUSTAAN
+https://allinonereborn.site/test/m3u.php?id=338
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="25198" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/349.jpg" group-title="@allinone_reborn | ZEE5",AL JAZEERA NEWS
+https://allinonereborn.site/test/m3u.php?id=25198
+
+
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="14595" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/14298.jpg" group-title="@allinone_reborn | ZEE5",ZEE KERALAM
+https://allinonereborn.site/test/m3u.php?id=14595
+
+
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="952" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/810.jpg" group-title="@allinone_reborn | ZEE5",ZEE  HD
+https://allinonereborn.site/test/m3u.php?id=952
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="953" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/811.jpg" group-title="@allinone_reborn | ZEE5",ZEE 
+https://allinonereborn.site/test/m3u.php?id=953
+
+
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="7108" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/6692.jpg" group-title="@allinone_reborn | ZEE5",ZEE 
+https://allinonereborn.site/test/m3u.php?id=7108
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="11538" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/11241.jpg" group-title="@allinone_reborn | ZEE5",ZEE .
+https://allinonereborn.site/test/m3u.php?id=11538
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="7112" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/6696.jpg" group-title="@allinone_reborn | ZEE5",ZEE TALKIES
+https://allinonereborn.site/test/m3u.php?id=7112
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="7512" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/7101.jpg" group-title="@allinone_reborn | ZEE5",ZEE YUVA
+https://allinonereborn.site/test/m3u.php?id=7512
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="7111" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/6695.jpg" group-title="@allinone_reborn | ZEE5",ZEE  TAAS
+https://allinonereborn.site/test/m3u.php?id=7111
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="982" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/840.jpg" group-title="@allinone_reborn | ZEE5",ZEE KANNADA
+https://allinonereborn.site/test/m3u.php?id=982
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="23444" tvg-logo="" group-title="@allinone_reborn | ZEE5",ZEE PICCHAR
+https://allinonereborn.site/test/m3u.php?id=23444
+
+
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="4594" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/4343.jpg" group-title="@allinone_reborn | ZEE5",ZEE TELUGU
+https://allinonereborn.site/test/m3u.php?id=4594
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="4600" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/4349.jpg" group-title="@allinone_reborn | ZEE5",ZEE TELUGU HD
+https://allinonereborn.site/test/m3u.php?id=4600
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="4598" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/4347.jpg" group-title="@allinone_reborn | ZEE5",ZEE CINEMA TEL
+https://allinonereborn.site/test/m3u.php?id=4598
+
+
+
+
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="11958" tvg-logo="" group-title="@allinone_reborn | ZEE5",ZEE BANGLA.
+https://allinonereborn.site/test/m3u.php?id=11958
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="11934" tvg-logo="" group-title="@allinone_reborn | ZEE5",ZEE BANGLA
+https://allinonereborn.site/test/m3u.php?id=11934
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="11871" tvg-logo="" group-title="@allinone_reborn | ZEE5",ZEE CINEMA BAN
+https://allinonereborn.site/test/m3u.php?id=11871
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="18930" tvg-logo="" group-title="@allinone_reborn | ZEE5",ZEE 24 GHANTA
+https://allinonereborn.site/test/m3u.php?id=18930
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="7743" tvg-logo="" group-title="@allinone_reborn | ZEE5",ZEE HAREYNA
+https://allinonereborn.site/test/m3u.php?id=7743
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="7740" tvg-logo="" group-title="@allinone_reborn | ZEE5",ZEE PUNJABI
+https://allinonereborn.site/test/m3u.php?id=7740
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="22225" tvg-logo="" group-title="@allinone_reborn | ZEE5",ZEE PUNJABI.
+https://allinonereborn.site/test/m3u.php?id=22225
+
+
+
+
+
+
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="150" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/121.jpg" group-title="@allinone_reborn | ZEE5",ZEE CINEMA HD
+https://allinonereborn.site/test/m3u.php?id=150
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="151" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/122.jpg" group-title="@allinone_reborn | ZEE5",ZEE CINEMA HD..
+https://allinonereborn.site/test/m3u.php?id=151
+
+
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="154" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/125.jpg" group-title="@allinone_reborn | ZEE5",ZEE ACTION
+https://allinonereborn.site/test/m3u.php?id=154
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="184" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/155.jpg" group-title="@allinone_reborn | ZEE5",ZEE CLASSIC
+https://allinonereborn.site/test/m3u.php?id=184
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="22128" tvg-logo="" group-title="@allinone_reborn | ZEE5",ZEE BOLLYWOOD
+https://allinonereborn.site/test/m3u.php?id=22128
